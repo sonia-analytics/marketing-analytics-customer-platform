@@ -1,8 +1,8 @@
 # Author: Sonia Mannepuli
-## Data Analyst & Graduate Student
-## GitHub: github.com/sonia-analytics
-## LinkedIn: [Your LinkedIn Profile URL Here]
-## Project Role: Lead Data Analyst — Responsible for data cleaning, exploratory
+Data Analyst & Graduate Student
+GitHub: github.com/sonia-analytics
+LinkedIn: [Your LinkedIn Profile URL Here]
+Project Role: Lead Data Analyst — Responsible for data cleaning, exploratory
 
 # Marketing Analytics & Customer Intelligence Platform
 
