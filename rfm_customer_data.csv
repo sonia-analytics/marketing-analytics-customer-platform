@@ -1,0 +1,2237 @@
+ID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Segment,RFM_Score,Customer_Segment
+5524,58,25,1617,2,4,4,244,10,Champions
+2174,38,6,27,3,1,1,311,5,At Risk
+4141,26,21,776,3,3,3,333,9,Loyal Customers
+6182,26,8,53,3,1,1,311,5,At Risk
+5324,94,19,422,1,3,3,133,7,Promising / Potential
+7446,16,22,716,4,4,3,443,11,Champions
+965,34,21,590,3,3,3,333,9,Loyal Customers
+6177,32,10,169,3,2,2,322,7,Promising / Potential
+4855,19,6,46,4,1,1,411,6,Promising / Potential
+5899,68,2,49,2,1,1,211,4,At Risk
+1994,11,4,19,4,1,1,411,6,Promising / Potential
+387,59,6,61,2,1,1,211,4,At Risk
+2125,82,16,1102,1,3,4,134,8,Loyal Customers
+8180,53,15,310,2,2,2,222,6,Promising / Potential
+2569,38,5,46,3,1,1,311,5,At Risk
+2114,23,26,1315,4,4,4,444,12,Champions
+9736,51,9,96,2,2,2,222,6,Promising / Potential
+4939,20,13,317,4,2,2,422,8,Loyal Customers
+6565,91,26,1782,1,4,4,144,9,Loyal Customers
+2278,86,8,133,1,1,2,112,4,At Risk
+9360,41,12,316,3,2,2,322,7,Promising / Potential
+5376,42,43,1730,3,4,4,344,11,Champions
+1993,63,17,972,2,3,3,233,8,Loyal Customers
+4047,0,20,544,4,3,3,433,10,Champions
+1409,69,20,444,2,3,3,233,8,Loyal Customers
+7892,89,8,75,1,1,2,112,4,At Risk
+2404,4,14,257,4,2,2,422,8,Loyal Customers
+5255,19,27,637,4,4,3,443,11,Champions
+9422,26,9,131,3,2,2,322,7,Promising / Potential
+1966,96,26,1672,1,4,4,144,9,Loyal Customers
+6864,34,8,30,3,1,1,311,5,At Risk
+3033,56,11,318,2,2,2,222,6,Promising / Potential
+5710,31,9,120,3,2,2,322,7,Promising / Potential
+7373,8,17,302,4,3,2,432,9,Loyal Customers
+8755,4,18,1196,4,3,4,434,11,Champions
+10738,55,6,65,2,1,1,211,4,At Risk
+4339,37,28,913,3,4,3,343,10,Champions
+10755,76,9,81,1,2,2,122,5,At Risk
+8595,99,7,67,1,1,1,111,3,Lost / Inactive
+2968,53,24,902,2,4,3,243,9,Loyal Customers
+8601,3,21,1395,4,3,4,434,11,Champions
+503,88,7,53,1,1,1,111,3,Lost / Inactive
+8430,4,4,22,4,1,1,411,6,Promising / Potential
+7281,80,9,186,1,2,2,122,5,At Risk
+2139,19,8,31,4,1,1,411,6,Promising / Potential
+1371,72,16,984,2,3,3,233,8,Loyal Customers
+9909,24,10,122,4,2,2,422,8,Loyal Customers
+7286,92,5,55,1,1,1,111,3,Lost / Inactive
+7244,96,10,124,1,2,2,122,5,At Risk
+6566,39,28,1319,3,4,4,344,11,Champions
+8614,29,17,507,3,3,3,333,9,Loyal Customers
+4114,2,29,1693,4,4,4,444,12,Champions
+1331,54,7,72,2,1,2,212,5,At Risk
+2225,54,21,1617,2,3,4,234,9,Loyal Customers
+9381,57,23,606,2,4,3,243,9,Loyal Customers
+6260,55,27,1957,2,4,4,244,10,Champions
+10383,30,21,1093,3,3,4,334,10,Champions
+7437,31,6,29,3,1,1,311,5,At Risk
+8557,57,7,46,2,1,1,211,4,At Risk
+8375,63,19,518,2,3,3,233,8,Loyal Customers
+6853,12,21,1438,4,3,4,434,11,Champions
+3076,18,22,612,4,4,3,443,11,Champions
+1012,26,24,884,3,4,3,343,10,Champions
+6518,8,19,606,4,3,3,433,10,Champions
+4137,29,16,1076,3,3,4,334,10,Champions
+8082,75,5,34,1,1,1,111,3,Lost / Inactive
+1386,0,4,11,4,1,1,411,6,Promising / Potential
+9369,19,32,1274,4,4,4,444,12,Champions
+4477,4,18,653,4,3,3,433,10,Champions
+1357,90,19,1562,1,3,4,134,8,Loyal Customers
+1402,1,21,1253,4,3,4,434,11,Champions
+10629,25,9,109,3,2,2,322,7,Promising / Potential
+6312,29,30,863,3,4,3,343,10,Champions
+8132,88,24,661,1,4,3,143,8,Loyal Customers
+1050,58,8,65,2,2,1,221,5,At Risk
+5846,68,4,13,2,1,1,211,4,At Risk
+1859,34,19,1890,3,3,4,334,10,Champions
+7503,40,22,2209,3,4,4,344,11,Champions
+10401,12,4,18,4,1,1,411,6,Promising / Potential
+1618,9,21,692,4,3,3,433,10,Champions
+3332,87,12,165,1,2,2,122,5,At Risk
+2261,5,4,16,4,1,1,411,6,Promising / Potential
+5346,87,9,79,1,2,2,122,5,At Risk
+4119,56,11,318,2,2,2,222,6,Promising / Potential
+535,18,27,778,4,4,3,443,11,Champions
+5268,95,7,56,1,1,1,111,3,Lost / Inactive
+273,48,13,151,3,2,2,322,7,Promising / Potential
+4452,3,17,372,4,3,2,432,9,Loyal Customers
+8504,70,19,1366,2,3,4,234,9,Loyal Customers
+771,79,10,194,1,2,2,122,5,At Risk
+8996,4,29,603,4,4,3,443,11,Champions
+9235,45,4,18,3,1,1,311,5,At Risk
+5798,87,15,985,1,2,3,123,6,Promising / Potential
+11178,69,5,32,2,1,1,211,4,At Risk
+2230,84,10,43,1,2,1,121,4,At Risk
+7516,30,6,45,3,1,1,311,5,At Risk
+7247,72,22,606,2,4,3,243,9,Loyal Customers
+11100,37,7,63,3,1,1,311,5,At Risk
+4646,44,25,978,3,4,3,343,10,Champions
+3037,32,16,410,3,3,3,333,9,Loyal Customers
+1473,0,7,72,4,1,2,412,7,Promising / Potential
+1016,43,7,55,3,1,1,311,5,At Risk
+4518,59,27,1169,2,4,4,244,10,Champions
+9370,68,16,1120,2,3,4,234,9,Loyal Customers
+8908,35,20,1097,3,3,4,334,10,Champions
+8373,94,5,29,1,1,1,111,3,Lost / Inactive
+7533,15,13,187,4,2,2,422,8,Loyal Customers
+2683,56,26,910,2,4,3,243,9,Loyal Customers
+3629,17,9,145,4,2,2,422,8,Loyal Customers
+10991,18,14,850,4,2,3,423,9,Loyal Customers
+5077,46,24,969,3,4,3,343,10,Champions
+7431,40,17,1820,3,3,4,334,10,Champions
+3267,27,20,608,3,3,3,333,9,Loyal Customers
+999,95,25,730,1,4,3,143,8,Loyal Customers
+9215,19,21,551,4,3,3,433,10,Champions
+2286,27,8,114,3,2,2,322,7,Promising / Potential
+1592,25,15,1724,3,2,4,324,9,Loyal Customers
+367,74,20,577,2,3,3,233,8,Loyal Customers
+5234,85,7,81,1,1,2,112,4,At Risk
+9862,37,7,33,3,1,1,311,5,At Risk
+9805,65,22,660,2,4,3,243,9,Loyal Customers
+6205,13,9,80,4,2,2,422,8,Loyal Customers
+8442,63,6,30,2,1,1,211,4,At Risk
+7386,83,5,43,1,1,1,111,3,Lost / Inactive
+7215,69,27,1135,2,4,4,244,10,Champions
+1491,87,16,559,1,3,3,133,7,Promising / Potential
+11071,37,16,1923,3,3,4,334,10,Champions
+3381,51,8,90,2,2,2,222,6,Promising / Potential
+8268,23,17,404,4,3,3,433,10,Champions
+11051,72,23,661,2,4,3,243,9,Loyal Customers
+8026,10,19,463,4,3,3,433,10,Champions
+433,42,23,632,3,4,3,343,10,Champions
+9597,10,19,725,4,3,3,433,10,Champions
+1295,96,19,725,1,3,3,133,7,Promising / Potential
+5290,51,16,279,2,3,2,232,7,Promising / Potential
+1685,21,23,1482,4,4,4,444,12,Champions
+5342,31,6,29,3,1,1,311,5,At Risk
+9579,61,9,106,2,2,2,222,6,Promising / Potential
+7660,37,6,49,3,1,1,311,5,At Risk
+1461,74,7,38,2,1,1,211,4,At Risk
+821,46,22,2077,3,4,4,344,11,Champions
+11084,4,17,1053,4,3,4,434,11,Champions
+8690,73,23,1385,2,4,4,244,10,Champions
+2937,47,25,871,3,4,3,343,10,Champions
+9701,13,12,312,4,2,2,422,8,Loyal Customers
+9949,36,15,877,3,2,3,323,8,Loyal Customers
+10837,47,6,68,3,1,1,311,5,At Risk
+3120,49,4,22,3,1,1,311,5,At Risk
+5885,94,16,211,1,3,2,132,6,Promising / Potential
+4050,65,8,127,2,2,2,222,6,Promising / Potential
+3830,59,16,459,2,3,3,233,8,Loyal Customers
+7987,96,19,460,1,3,3,133,7,Promising / Potential
+7798,28,17,429,3,3,3,333,9,Loyal Customers
+92,12,11,89,4,2,2,422,8,Loyal Customers
+7055,57,26,1021,2,4,3,243,9,Loyal Customers
+10240,10,21,1381,4,3,4,434,11,Champions
+3025,4,15,306,4,2,2,422,8,Loyal Customers
+9283,49,4,18,3,1,1,311,5,At Risk
+9970,3,9,162,4,2,2,422,8,Loyal Customers
+2730,64,18,1231,2,3,4,234,9,Loyal Customers
+2795,0,4,13,4,1,1,411,6,Promising / Potential
+9260,20,27,1706,4,4,4,444,12,Champions
+8182,91,11,121,1,2,2,122,5,At Risk
+10095,9,20,1293,4,3,4,434,11,Champions
+8475,98,37,1608,1,4,4,144,9,Loyal Customers
+4370,83,9,88,1,2,2,122,5,At Risk
+10573,27,18,421,3,3,3,333,9,Loyal Customers
+3712,63,12,259,2,2,2,222,6,Promising / Potential
+6637,46,15,1117,3,2,4,324,9,Loyal Customers
+3152,84,9,89,1,2,2,122,5,At Risk
+5610,58,6,36,2,1,1,211,4,At Risk
+6460,78,7,57,1,1,1,111,3,Lost / Inactive
+1349,4,8,148,4,2,2,422,8,Loyal Customers
+1880,17,8,93,4,2,2,422,8,Loyal Customers
+641,77,7,119,1,1,2,112,4,At Risk
+8717,56,28,1835,2,4,4,244,10,Champions
+10314,79,25,1318,1,4,4,144,9,Loyal Customers
+10854,90,7,45,1,1,1,111,3,Lost / Inactive
+10492,96,4,10,1,1,1,111,3,Lost / Inactive
+6935,44,25,978,3,4,3,343,10,Champions
+7698,81,10,191,1,2,2,122,5,At Risk
+3559,77,9,57,1,2,1,121,4,At Risk
+10562,21,24,1033,4,4,3,443,11,Champions
+10796,16,6,66,4,1,1,411,6,Promising / Potential
+2563,80,6,43,1,1,1,111,3,Lost / Inactive
+3518,45,5,50,3,1,1,311,5,At Risk
+5823,63,7,39,2,1,1,211,4,At Risk
+3934,34,18,608,3,3,3,333,9,Loyal Customers
+6982,14,24,1581,4,4,4,444,12,Champions
+6431,13,7,68,4,1,1,411,6,Promising / Potential
+9733,52,5,80,2,1,2,212,5,At Risk
+5602,98,28,1282,1,4,4,144,9,Loyal Customers
+1324,93,8,91,1,2,2,122,5,At Risk
+326,38,16,315,3,3,2,332,8,Loyal Customers
+7224,24,6,31,4,1,1,411,6,Promising / Potential
+6999,80,23,834,1,4,3,143,8,Loyal Customers
+9938,82,17,1600,1,3,4,134,8,Loyal Customers
+6422,20,17,1270,4,3,4,434,11,Champions
+3182,81,15,263,1,2,2,122,5,At Risk
+7300,50,19,535,2,3,3,233,8,Loyal Customers
+10424,60,18,1295,2,3,4,234,9,Loyal Customers
+8727,63,29,1150,2,4,4,244,10,Champions
+2798,54,26,1240,2,4,4,244,10,Champions
+1030,72,6,38,2,1,1,211,4,At Risk
+624,5,4,35,4,1,1,411,6,Promising / Potential
+5176,88,5,53,1,1,1,111,3,Lost / Inactive
+5552,50,17,293,2,3,2,232,7,Promising / Potential
+868,99,6,65,1,1,1,111,3,Lost / Inactive
+380,17,29,1804,4,4,4,444,12,Champions
+2677,11,15,241,4,2,2,422,8,Loyal Customers
+6521,18,20,1101,4,3,4,434,11,Champions
+6927,70,19,264,2,3,2,232,7,Promising / Potential
+2877,21,26,541,4,4,3,443,11,Champions
+0,66,17,1198,2,3,4,234,9,Loyal Customers
+1584,79,20,482,1,3,3,133,7,Promising / Potential
+7264,2,4,17,4,1,1,411,6,Promising / Potential
+6274,81,25,1615,1,4,4,144,9,Loyal Customers
+1377,24,12,285,4,2,2,422,8,Loyal Customers
+454,48,28,1135,3,4,4,344,11,Champions
+1755,93,7,114,1,1,2,112,4,At Risk
+2075,56,16,1047,2,3,4,234,9,Loyal Customers
+4785,3,22,714,4,4,3,443,11,Champions
+9076,44,13,185,3,2,2,322,7,Promising / Potential
+7079,38,32,1245,3,4,4,344,11,Champions
+4653,46,12,189,3,2,2,322,7,Promising / Potential
+7375,84,16,576,1,3,3,133,7,Promising / Potential
+709,27,18,1103,3,3,4,334,10,Champions
+460,72,17,1753,2,3,4,234,9,Loyal Customers
+3726,66,4,17,2,1,1,211,4,At Risk
+6798,30,23,433,3,4,3,343,10,Champions
+5341,2,14,1588,4,2,4,424,10,Champions
+1606,65,4,22,2,1,1,211,4,At Risk
+9617,37,5,19,3,1,1,311,5,At Risk
+3233,89,29,1117,1,4,4,144,9,Loyal Customers
+89,49,8,69,3,2,1,321,6,Promising / Potential
+2936,46,5,23,3,1,1,311,5,At Risk
+9449,32,19,605,3,3,3,333,9,Loyal Customers
+7297,54,11,57,2,2,1,221,5,At Risk
+313,98,22,2088,1,4,4,144,9,Loyal Customers
+9940,97,16,1009,1,3,3,133,7,Promising / Potential
+10735,75,5,26,1,1,1,111,3,Lost / Inactive
+9529,8,22,1627,4,4,4,444,12,Champions
+6439,37,31,1102,3,4,4,344,11,Champions
+7411,31,6,17,3,1,1,311,5,At Risk
+2176,40,16,1690,3,3,4,334,10,Champions
+9265,74,21,1390,2,3,4,234,9,Loyal Customers
+8867,90,20,2126,1,3,4,134,8,Loyal Customers
+8932,57,25,1531,2,4,4,244,10,Champions
+10236,59,7,64,2,1,1,211,4,At Risk
+6340,52,6,26,2,1,1,211,4,At Risk
+10089,5,29,1112,4,4,4,444,12,Champions
+2227,92,11,210,1,2,2,122,5,At Risk
+10992,77,26,1148,1,4,4,144,9,Loyal Customers
+5304,35,6,33,3,1,1,311,5,At Risk
+309,48,19,1101,3,3,4,334,10,Champions
+3406,97,16,322,1,3,2,132,6,Promising / Potential
+2661,95,10,44,1,2,1,121,4,At Risk
+3153,24,4,17,4,1,1,411,6,Promising / Potential
+10264,60,6,31,2,1,1,211,4,At Risk
+1184,46,25,845,3,4,3,343,10,Champions
+4200,85,15,275,1,2,2,122,5,At Risk
+9396,31,4,25,3,1,1,311,5,At Risk
+2387,9,17,275,4,3,2,432,9,Loyal Customers
+6690,30,11,90,3,2,2,322,7,Promising / Potential
+1225,47,19,1495,3,3,4,334,10,Champions
+9703,70,11,184,2,2,2,222,6,Promising / Potential
+291,13,13,981,4,2,3,423,9,Loyal Customers
+4557,11,8,67,4,2,1,421,7,Promising / Potential
+2379,31,14,1635,3,2,4,324,9,Loyal Customers
+5726,15,10,60,4,2,1,421,7,Promising / Potential
+3066,2,12,231,4,2,2,422,8,Loyal Customers
+6336,55,10,48,2,2,1,221,5,At Risk
+10967,38,9,99,3,2,2,322,7,Promising / Potential
+2304,86,23,770,1,4,3,143,8,Loyal Customers
+3445,56,23,957,2,4,3,243,9,Loyal Customers
+7828,29,12,818,3,2,3,323,8,Loyal Customers
+3762,30,17,925,3,3,3,333,9,Loyal Customers
+4391,64,22,908,2,4,3,243,9,Loyal Customers
+4669,46,10,102,3,2,2,322,7,Promising / Potential
+10144,84,16,576,1,3,3,133,7,Promising / Potential
+8652,20,13,317,4,2,2,422,8,Loyal Customers
+1672,74,15,461,2,2,3,223,7,Promising / Potential
+8962,18,7,37,4,1,1,411,6,Promising / Potential
+9974,75,7,70,1,1,2,112,4,At Risk
+10983,17,23,930,4,4,3,443,11,Champions
+8148,88,33,859,1,4,3,143,8,Loyal Customers
+10102,19,22,1478,4,4,4,444,12,Champions
+4697,62,16,390,2,3,2,232,7,Promising / Potential
+9262,11,5,52,4,1,1,411,6,Promising / Potential
+7254,74,10,137,2,2,2,222,6,Promising / Potential
+4543,32,19,1919,3,3,4,334,10,Champions
+4927,76,9,68,1,2,1,121,4,At Risk
+10451,6,4,25,4,1,1,411,6,Promising / Potential
+2926,62,23,1374,2,4,4,244,10,Champions
+2874,20,5,32,4,1,1,411,6,Promising / Potential
+9738,43,7,100,3,1,2,312,6,Promising / Potential
+7119,45,12,825,3,2,3,323,8,Loyal Customers
+3924,34,28,916,3,4,3,343,10,Champions
+5827,53,11,62,2,2,1,221,5,At Risk
+5596,44,21,728,3,3,3,333,9,Loyal Customers
+10812,89,7,90,1,1,2,112,4,At Risk
+1717,43,13,273,3,2,2,322,7,Promising / Potential
+9491,68,10,66,2,2,1,221,5,At Risk
+9274,44,23,1213,3,4,4,344,11,Champions
+6609,64,7,107,2,1,2,212,5,At Risk
+6963,85,18,1157,1,3,4,134,8,Loyal Customers
+4440,93,18,546,1,3,3,133,7,Promising / Potential
+1379,12,11,241,4,2,2,422,8,Loyal Customers
+10032,86,11,53,1,2,1,121,4,At Risk
+2826,28,7,37,3,1,1,311,5,At Risk
+2437,69,24,1611,2,4,4,244,10,Champions
+6320,42,23,1508,3,4,4,344,11,Champions
+3050,13,16,235,4,3,2,432,9,Loyal Customers
+231,86,7,32,1,1,1,111,3,Lost / Inactive
+2392,59,8,102,2,2,2,222,6,Promising / Potential
+9478,30,15,401,3,2,3,323,8,Loyal Customers
+113,33,6,28,3,1,1,311,5,At Risk
+2863,67,21,1052,2,3,4,234,9,Loyal Customers
+1802,23,21,680,4,3,3,433,10,Champions
+520,81,4,30,1,1,1,111,3,Lost / Inactive
+8275,6,4,20,4,1,1,411,6,Promising / Potential
+9750,41,23,1307,3,4,4,344,11,Champions
+2607,78,24,630,1,4,3,143,8,Loyal Customers
+7214,49,18,1283,3,3,4,334,10,Champions
+5835,39,9,65,3,2,1,321,6,Promising / Potential
+3896,3,5,37,4,1,1,411,6,Promising / Potential
+10350,37,5,38,3,1,1,311,5,At Risk
+7786,22,12,160,4,2,2,422,8,Loyal Customers
+2861,79,4,23,1,1,1,111,3,Lost / Inactive
+663,46,6,71,3,1,2,312,6,Promising / Potential
+10675,82,19,1161,1,3,4,134,8,Loyal Customers
+2521,10,5,59,4,1,1,411,6,Promising / Potential
+9592,51,7,33,2,1,1,211,4,At Risk
+10151,38,22,946,3,4,3,343,10,Champions
+7381,10,22,1442,4,4,4,444,12,Champions
+4099,14,5,62,4,1,1,411,6,Promising / Potential
+9560,18,22,1674,4,4,4,444,12,Champions
+10172,95,21,1538,1,3,4,134,8,Loyal Customers
+11191,11,8,139,4,2,2,422,8,Loyal Customers
+9707,65,20,1182,2,3,4,234,9,Loyal Customers
+6245,71,18,507,2,3,3,233,8,Loyal Customers
+8234,13,4,18,4,1,1,411,6,Promising / Potential
+1411,58,16,940,2,3,3,233,8,Loyal Customers
+8553,65,6,42,2,1,1,211,4,At Risk
+1826,0,15,1190,4,2,4,424,10,Champions
+8842,33,8,44,3,2,1,321,6,Promising / Potential
+11030,90,4,16,1,1,1,111,3,Lost / Inactive
+2579,95,26,835,1,4,3,143,8,Loyal Customers
+175,93,22,1443,1,4,4,144,9,Loyal Customers
+9185,38,18,1029,3,3,3,333,9,Loyal Customers
+11056,18,18,1188,4,3,4,434,11,Champions
+9365,57,24,1277,2,4,4,244,10,Champions
+6201,45,7,49,3,1,1,311,5,At Risk
+2061,61,7,99,2,1,2,212,5,At Risk
+6184,6,15,1670,4,2,4,424,10,Champions
+6142,65,14,900,2,2,3,223,7,Promising / Potential
+4107,52,16,425,2,3,3,233,8,Loyal Customers
+7274,87,22,2153,1,4,4,144,9,Loyal Customers
+9336,38,21,636,3,3,3,333,9,Loyal Customers
+2958,53,10,57,2,2,1,221,5,At Risk
+933,31,4,25,3,1,1,311,5,At Risk
+5837,67,22,494,2,4,3,243,9,Loyal Customers
+10704,65,19,693,2,3,3,233,8,Loyal Customers
+5125,64,26,1348,2,4,4,244,10,Champions
+4432,82,7,51,1,1,1,111,3,Lost / Inactive
+5955,27,16,1932,3,3,4,334,10,Champions
+2928,63,16,990,2,3,3,233,8,Loyal Customers
+5680,66,5,30,2,1,1,211,4,At Risk
+10313,69,16,254,2,3,2,232,7,Promising / Potential
+2557,52,5,29,2,1,1,211,4,At Risk
+1245,45,23,1371,3,4,4,344,11,Champions
+1519,2,9,73,4,2,2,422,8,Loyal Customers
+10703,86,11,120,1,2,2,122,5,At Risk
+1726,23,5,81,4,1,2,412,7,Promising / Potential
+4459,13,5,37,4,1,1,411,6,Promising / Potential
+1729,14,20,1377,4,3,4,434,11,Champions
+1517,92,5,51,1,1,1,111,3,Lost / Inactive
+2098,38,4,17,3,1,1,311,5,At Risk
+9543,74,4,22,2,1,1,211,4,At Risk
+6878,14,14,324,4,2,2,422,8,Loyal Customers
+3310,94,16,211,1,3,2,132,6,Promising / Potential
+2724,33,4,19,3,1,1,311,5,At Risk
+948,32,8,41,3,2,1,321,6,Promising / Potential
+6720,11,17,492,4,3,3,433,10,Champions
+6202,78,26,1005,1,4,3,143,8,Loyal Customers
+2066,56,7,114,2,1,2,212,5,At Risk
+9799,57,19,1173,2,3,4,234,9,Loyal Customers
+8318,7,19,1738,4,3,4,434,11,Champions
+5642,0,12,222,4,2,2,422,8,Loyal Customers
+2669,66,16,1127,2,3,4,234,9,Loyal Customers
+455,86,10,209,1,2,2,122,5,At Risk
+7683,80,23,787,1,4,3,143,8,Loyal Customers
+3428,56,24,1598,2,4,4,244,10,Champions
+7414,18,12,186,4,2,2,422,8,Loyal Customers
+6354,51,6,47,2,1,1,211,4,At Risk
+798,71,5,27,2,1,1,211,4,At Risk
+8213,71,11,96,2,2,2,222,6,Promising / Potential
+2488,80,10,64,1,2,1,121,4,At Risk
+9999,2,23,1040,4,4,3,443,11,Champions
+7617,83,13,163,1,2,2,122,5,At Risk
+615,29,11,343,3,2,2,322,7,Promising / Potential
+2552,11,24,446,4,4,3,443,11,Champions
+194,55,5,41,2,1,1,211,4,At Risk
+3645,19,9,70,4,2,2,422,8,Loyal Customers
+8890,1,14,272,4,2,2,422,8,Loyal Customers
+5049,19,6,46,4,1,1,411,6,Promising / Potential
+9973,28,19,490,3,3,3,333,9,Loyal Customers
+7301,76,8,79,1,2,2,122,5,At Risk
+10882,50,17,915,2,3,3,233,8,Loyal Customers
+7030,1,35,1485,4,4,4,444,12,Champions
+7422,90,16,369,1,3,2,132,6,Promising / Potential
+3523,83,19,1073,1,3,4,134,8,Loyal Customers
+7106,73,19,1242,2,3,4,234,9,Loyal Customers
+6504,24,9,78,4,2,2,422,8,Loyal Customers
+5067,11,21,1378,4,3,4,434,11,Champions
+4216,33,26,1474,3,4,4,344,11,Champions
+8581,4,29,751,4,4,3,443,11,Champions
+5929,14,7,48,4,1,1,411,6,Promising / Potential
+3129,30,6,45,3,1,1,311,5,At Risk
+6528,75,4,10,1,1,1,111,3,Lost / Inactive
+1361,26,16,1435,3,3,4,334,10,Champions
+6932,77,22,2119,1,4,4,144,9,Loyal Customers
+7284,8,4,20,4,1,1,411,6,Promising / Potential
+1340,42,27,1795,3,4,4,344,11,Champions
+8746,28,19,1188,3,3,4,334,10,Champions
+5987,52,7,43,2,1,1,211,4,At Risk
+3767,1,24,1008,4,4,3,443,11,Champions
+3725,1,16,1688,4,3,4,434,11,Champions
+4324,42,21,684,3,3,3,333,9,Loyal Customers
+238,76,39,1082,1,4,4,144,9,Loyal Customers
+6694,27,25,1068,3,4,4,344,11,Champions
+498,28,7,57,3,1,1,311,5,At Risk
+9347,49,5,46,3,1,1,311,5,At Risk
+9699,12,23,733,4,4,3,443,11,Champions
+10664,14,17,467,4,3,3,433,10,Champions
+5455,89,10,122,1,2,2,122,5,At Risk
+456,96,7,36,1,1,1,111,3,Lost / Inactive
+5012,56,5,34,2,1,1,211,4,At Risk
+7495,72,10,156,2,2,2,222,6,Promising / Potential
+5029,14,4,14,4,1,1,411,6,Promising / Potential
+10642,13,5,37,4,1,1,411,6,Promising / Potential
+2106,99,5,34,1,1,1,111,3,Lost / Inactive
+10364,72,4,20,2,1,1,211,4,At Risk
+5954,92,11,192,1,2,2,122,5,At Risk
+1137,87,17,1379,1,3,4,134,8,Loyal Customers
+2541,7,7,48,4,1,1,411,6,Promising / Potential
+1142,91,16,428,1,3,3,133,7,Promising / Potential
+2276,71,27,868,2,4,3,243,9,Loyal Customers
+2807,24,27,1001,4,4,3,443,11,Champions
+6471,17,7,59,4,1,1,411,6,Promising / Potential
+6131,87,16,431,1,3,3,133,7,Promising / Potential
+6233,21,27,971,4,4,3,443,11,Champions
+4148,90,19,348,1,3,2,132,6,Promising / Potential
+4947,44,24,2059,3,4,4,344,11,Champions
+3225,71,14,265,2,2,2,222,6,Promising / Potential
+7540,52,13,270,2,2,2,222,6,Promising / Potential
+10648,78,19,1289,1,3,4,134,8,Loyal Customers
+1992,2,16,893,4,3,3,433,10,Champions
+7851,60,22,926,2,4,3,243,9,Loyal Customers
+8594,25,9,135,3,2,2,322,7,Promising / Potential
+7059,47,19,1495,3,3,4,334,10,Champions
+2815,46,9,120,3,2,2,322,7,Promising / Potential
+2416,83,20,1288,1,3,4,134,8,Loyal Customers
+7999,17,17,1743,4,3,4,434,11,Champions
+9213,13,4,15,4,1,1,411,6,Promising / Potential
+9697,86,20,542,1,3,3,133,7,Promising / Potential
+3916,92,25,890,1,4,3,143,8,Loyal Customers
+2021,47,33,1388,3,4,4,344,11,Champions
+1581,18,4,17,4,1,1,411,6,Promising / Potential
+564,81,30,906,1,4,3,143,8,Loyal Customers
+6619,91,6,44,1,1,1,111,3,Lost / Inactive
+9081,58,5,25,2,1,1,211,4,At Risk
+178,40,26,973,3,4,3,343,10,Champions
+916,67,6,31,2,1,1,211,4,At Risk
+5512,19,17,518,4,3,3,433,10,Champions
+8970,93,19,530,1,3,3,133,7,Promising / Potential
+10581,41,21,506,3,3,3,333,9,Loyal Customers
+5300,60,6,70,2,1,2,212,5,At Risk
+5154,54,6,54,2,1,1,211,4,At Risk
+8346,26,12,296,3,2,2,322,7,Promising / Potential
+1676,30,15,266,3,2,2,322,7,Promising / Potential
+9286,93,19,747,1,3,3,133,7,Promising / Potential
+2426,35,29,895,3,4,3,343,10,Champions
+5172,4,17,1053,4,3,4,434,11,Champions
+5562,92,21,735,1,3,3,133,7,Promising / Potential
+3436,24,5,20,4,1,1,411,6,Promising / Potential
+3921,96,10,205,1,2,2,122,5,At Risk
+3403,11,21,2092,4,3,4,434,11,Champions
+22,99,14,309,1,2,2,122,5,At Risk
+10965,72,22,1722,2,4,4,244,10,Champions
+9426,77,15,900,1,2,3,123,6,Promising / Potential
+6605,85,20,682,1,3,3,133,7,Promising / Potential
+3136,88,22,663,1,4,3,143,8,Loyal Customers
+8737,22,6,43,4,1,1,411,6,Promising / Potential
+11088,83,18,1816,1,3,4,134,8,Loyal Customers
+716,63,27,976,2,4,3,243,9,Loyal Customers
+466,9,21,746,4,3,3,433,10,Champions
+9135,92,6,64,1,1,1,111,3,Lost / Inactive
+10623,2,5,32,4,1,1,411,6,Promising / Potential
+8151,6,9,263,4,2,2,422,8,Loyal Customers
+5140,66,21,1445,2,3,4,234,9,Loyal Customers
+10160,49,5,46,3,1,1,311,5,At Risk
+4945,29,28,1210,3,4,4,344,11,Champions
+10584,77,24,945,1,4,3,143,8,Loyal Customers
+6071,77,22,1157,1,4,4,144,9,Loyal Customers
+3386,71,8,137,2,2,2,222,6,Promising / Potential
+8939,49,25,730,3,4,3,343,10,Champions
+9925,97,12,216,1,2,2,122,5,At Risk
+4320,6,23,943,4,4,3,443,11,Champions
+5389,93,16,347,1,3,2,132,6,Promising / Potential
+6036,78,19,1924,1,3,4,134,8,Loyal Customers
+182,62,17,397,2,3,3,233,8,Loyal Customers
+203,47,22,2089,3,4,4,344,11,Champions
+11025,9,11,138,4,2,2,422,8,Loyal Customers
+10203,77,5,42,1,1,1,111,3,Lost / Inactive
+4607,24,17,777,4,3,3,433,10,Champions
+3711,19,20,1902,4,3,4,434,11,Champions
+3696,67,7,52,2,1,1,211,4,At Risk
+2532,95,13,1651,1,2,4,124,7,Promising / Potential
+9214,48,13,358,3,2,2,322,7,Promising / Potential
+4943,73,16,1727,2,3,4,234,9,Loyal Customers
+35,35,10,210,3,2,2,322,7,Promising / Potential
+2258,76,5,42,1,1,1,111,3,Lost / Inactive
+4322,20,20,1291,4,3,4,434,11,Champions
+713,72,15,442,2,2,3,223,7,Promising / Potential
+4702,20,17,1895,4,3,4,434,11,Champions
+3281,69,19,411,2,3,3,233,8,Loyal Customers
+702,80,19,521,1,3,3,133,7,Promising / Potential
+2004,65,17,1168,2,3,4,234,9,Loyal Customers
+4769,52,23,493,2,4,3,243,9,Loyal Customers
+4437,65,12,260,2,2,2,222,6,Promising / Potential
+8724,57,7,46,2,1,1,211,4,At Risk
+10741,70,16,319,2,3,2,232,7,Promising / Potential
+1991,0,7,96,4,1,2,412,7,Promising / Potential
+6931,19,16,1062,4,3,4,434,11,Champions
+11096,50,12,232,2,2,2,222,6,Promising / Potential
+304,67,9,76,2,2,2,222,6,Promising / Potential
+3665,46,9,54,3,2,1,321,6,Promising / Potential
+10591,37,11,201,3,2,2,322,7,Promising / Potential
+5036,38,14,406,3,2,3,323,8,Loyal Customers
+5547,9,20,1919,4,3,4,434,11,Champions
+7822,56,20,662,2,3,3,233,8,Loyal Customers
+8541,98,8,41,1,2,1,121,4,At Risk
+10955,68,14,1600,2,2,4,224,8,Loyal Customers
+4368,72,8,134,2,2,2,222,6,Promising / Potential
+9671,47,10,69,3,2,1,321,6,Promising / Potential
+2256,33,6,21,3,1,1,311,5,At Risk
+4279,87,7,54,1,1,1,111,3,Lost / Inactive
+5371,0,8,91,4,2,2,422,8,Loyal Customers
+9240,73,18,526,2,3,3,233,8,Loyal Customers
+9460,74,8,162,2,2,2,222,6,Promising / Potential
+9504,4,25,1008,4,4,3,443,11,Champions
+8692,50,16,240,2,3,2,232,7,Promising / Potential
+448,57,21,795,2,3,3,233,8,Loyal Customers
+8314,30,19,1772,3,3,4,334,10,Champions
+8420,27,8,64,3,2,1,321,6,Promising / Potential
+3174,61,20,1957,2,3,4,234,9,Loyal Customers
+7685,4,7,78,4,1,2,412,7,Promising / Potential
+3179,75,19,1572,1,3,4,134,8,Loyal Customers
+9780,12,26,795,4,4,3,443,11,Champions
+10681,13,26,889,4,4,3,443,11,Champions
+10232,9,15,331,4,2,2,422,8,Loyal Customers
+4184,48,12,265,3,2,2,322,7,Promising / Potential
+9120,80,19,1065,1,3,4,134,8,Loyal Customers
+891,60,4,11,2,1,1,211,4,At Risk
+10381,43,4,21,3,1,1,311,5,At Risk
+3525,19,4,17,4,1,1,411,6,Promising / Potential
+6818,26,16,369,3,3,2,332,8,Loyal Customers
+3526,58,6,38,2,1,1,211,4,At Risk
+8181,42,11,177,3,2,2,322,7,Promising / Potential
+1029,27,12,279,3,2,2,322,7,Promising / Potential
+7369,56,7,62,2,1,1,211,4,At Risk
+2574,27,21,1230,3,3,4,334,10,Champions
+8159,10,11,182,4,2,2,422,8,Loyal Customers
+1160,48,10,49,3,2,1,321,6,Promising / Potential
+10242,39,8,75,3,2,2,322,7,Promising / Potential
+5253,85,16,227,1,3,2,132,6,Promising / Potential
+5966,64,15,215,2,2,2,222,6,Promising / Potential
+5314,69,20,444,2,3,3,233,8,Loyal Customers
+5081,54,5,47,2,1,1,211,4,At Risk
+5123,57,7,143,2,1,2,212,5,At Risk
+5756,64,7,55,2,1,1,211,4,At Risk
+8036,10,11,63,4,2,1,421,7,Promising / Potential
+9058,65,22,1867,2,4,4,244,10,Champions
+5057,74,20,611,2,3,3,233,8,Loyal Customers
+254,4,18,473,4,3,3,433,10,Champions
+4179,94,6,55,1,1,1,111,3,Lost / Inactive
+3710,41,7,81,3,1,2,312,6,Promising / Potential
+7627,25,21,2086,3,3,4,334,10,Champions
+4501,94,20,1478,1,3,4,134,8,Loyal Customers
+6424,9,5,49,4,1,1,411,6,Promising / Potential
+3075,47,15,382,3,2,2,322,7,Promising / Potential
+4992,12,9,69,4,2,1,421,7,Promising / Potential
+5252,80,6,67,1,1,1,111,3,Lost / Inactive
+7444,20,6,30,4,1,1,411,6,Promising / Potential
+6919,39,9,63,3,2,1,321,6,Promising / Potential
+3537,57,10,79,2,2,2,222,6,Promising / Potential
+10277,27,5,42,3,1,1,311,5,At Risk
+2453,83,23,819,1,4,3,143,8,Loyal Customers
+7972,79,17,1151,1,3,4,134,8,Loyal Customers
+895,69,20,594,2,3,3,233,8,Loyal Customers
+1177,77,11,129,1,2,2,122,5,At Risk
+7141,15,12,213,4,2,2,422,8,Loyal Customers
+7232,99,7,67,1,1,1,111,3,Lost / Inactive
+8477,61,5,28,2,1,1,211,4,At Risk
+2457,23,6,45,4,1,1,411,6,Promising / Potential
+988,84,18,1193,1,3,4,134,8,Loyal Customers
+7930,74,12,268,2,2,2,222,6,Promising / Potential
+4587,90,12,266,1,2,2,122,5,At Risk
+6682,41,5,37,3,1,1,311,5,At Risk
+6222,28,7,37,3,1,1,311,5,At Risk
+10299,73,25,882,2,4,3,243,9,Loyal Customers
+3083,88,18,373,1,3,2,132,6,Promising / Potential
+8953,94,6,35,1,1,1,111,3,Lost / Inactive
+1503,31,1,107,3,1,2,312,6,Promising / Potential
+8650,31,5,42,3,1,1,311,5,At Risk
+10862,6,17,326,4,3,2,432,9,Loyal Customers
+2782,23,17,404,4,3,3,433,10,Champions
+6941,92,6,95,1,1,2,112,4,At Risk
+10972,52,14,939,2,2,3,223,7,Promising / Potential
+10708,50,5,33,2,1,1,211,4,At Risk
+6583,54,21,981,2,3,3,233,8,Loyal Customers
+3641,93,7,36,1,1,1,111,3,Lost / Inactive
+10156,56,20,1237,2,3,4,234,9,Loyal Customers
+4299,28,34,1825,3,4,4,344,11,Champions
+3469,94,9,103,1,2,2,122,5,At Risk
+5063,76,12,191,1,2,2,122,5,At Risk
+10727,43,25,1586,3,4,4,344,11,Champions
+9624,46,14,963,3,2,3,323,8,Loyal Customers
+5156,13,26,889,4,4,3,443,11,Champions
+4376,27,7,93,3,1,2,312,6,Promising / Potential
+8923,12,21,1587,4,3,4,434,11,Champions
+8461,3,4,16,4,1,1,411,6,Promising / Potential
+6945,72,32,1375,2,4,4,244,10,Champions
+944,6,14,393,4,2,2,422,8,Loyal Customers
+1907,53,26,1477,2,4,4,244,10,Champions
+701,58,18,1179,2,3,4,234,9,Loyal Customers
+3856,78,26,1005,1,4,3,143,8,Loyal Customers
+4149,57,21,1348,2,3,4,234,9,Loyal Customers
+2131,37,23,1307,3,4,4,344,11,Champions
+2942,20,15,486,4,2,3,423,9,Loyal Customers
+1173,73,13,2252,2,2,4,224,8,Loyal Customers
+4381,56,17,235,2,3,2,232,7,Promising / Potential
+4611,36,30,1724,3,4,4,344,11,Champions
+3376,9,11,235,4,2,2,422,8,Loyal Customers
+4679,42,28,1092,3,4,4,344,11,Champions
+10928,28,17,599,3,3,3,333,9,Loyal Customers
+4248,23,19,2008,4,3,4,434,11,Champions
+6728,38,6,48,3,1,1,311,5,At Risk
+6661,63,32,1174,2,4,4,244,10,Champions
+4725,71,7,67,2,1,1,211,4,At Risk
+3277,9,15,365,4,2,2,422,8,Loyal Customers
+5555,81,0,6,1,1,1,111,3,Lost / Inactive
+2564,87,10,165,1,2,2,122,5,At Risk
+946,92,11,210,1,2,2,122,5,At Risk
+3867,36,26,1095,3,4,4,344,11,Champions
+6940,86,12,223,1,2,2,122,5,At Risk
+55,83,22,597,1,4,3,143,8,Loyal Customers
+7093,74,4,22,2,1,1,211,4,At Risk
+5084,87,24,1064,1,4,4,144,9,Loyal Customers
+1777,29,6,74,3,1,2,312,6,Promising / Potential
+8162,88,5,26,1,1,1,111,3,Lost / Inactive
+10826,77,5,60,1,1,1,111,3,Lost / Inactive
+8754,25,4,20,3,1,1,311,5,At Risk
+1987,34,7,59,3,1,1,311,5,At Risk
+11007,43,5,34,3,1,1,311,5,At Risk
+7426,76,12,198,1,2,2,122,5,At Risk
+9153,81,28,1048,1,4,4,144,9,Loyal Customers
+10379,87,21,574,1,3,3,133,7,Promising / Potential
+9204,33,17,1029,3,3,3,333,9,Loyal Customers
+3197,38,20,670,3,3,3,333,9,Loyal Customers
+2920,63,16,990,2,3,3,233,8,Loyal Customers
+6961,26,4,11,3,1,1,311,5,At Risk
+4673,17,21,1241,4,3,4,434,11,Champions
+9937,75,17,576,1,3,3,133,7,Promising / Potential
+8779,13,12,172,4,2,2,422,8,Loyal Customers
+9596,19,20,664,4,3,3,433,10,Champions
+2891,51,23,928,2,4,3,243,9,Loyal Customers
+4910,81,30,2074,1,4,4,144,9,Loyal Customers
+75,32,15,467,3,2,3,323,8,Loyal Customers
+10120,84,12,257,1,2,2,122,5,At Risk
+6327,87,17,1146,1,3,4,134,8,Loyal Customers
+10142,99,20,689,1,3,3,133,7,Promising / Potential
+9826,96,22,2114,1,4,4,144,9,Loyal Customers
+1501,21,44,1717,4,4,4,444,12,Champions
+10767,40,21,1346,3,3,4,334,10,Champions
+7279,3,15,1044,4,2,3,423,9,Loyal Customers
+7230,98,22,493,1,4,3,143,8,Loyal Customers
+143,73,13,957,2,2,3,223,7,Promising / Potential
+450,90,12,270,1,2,2,122,5,At Risk
+9316,29,5,29,3,1,1,311,5,At Risk
+6379,3,9,121,4,2,2,422,8,Loyal Customers
+9239,94,8,126,1,2,2,122,5,At Risk
+8315,65,4,23,2,1,1,211,4,At Risk
+2868,33,8,57,3,2,1,321,6,Promising / Potential
+10888,46,20,636,3,3,3,333,9,Loyal Customers
+1277,29,28,1004,3,4,3,343,10,Champions
+9977,99,20,734,1,3,3,133,7,Promising / Potential
+10196,26,20,614,3,3,3,333,9,Loyal Customers
+6384,30,21,1453,3,3,4,334,10,Champions
+8029,27,15,1621,3,2,4,324,9,Loyal Customers
+968,24,12,187,4,2,2,422,8,Loyal Customers
+6988,93,22,1443,1,4,4,144,9,Loyal Customers
+4472,34,6,57,3,1,1,311,5,At Risk
+6991,88,20,637,1,3,3,133,7,Promising / Potential
+3336,96,14,948,1,2,3,123,6,Promising / Potential
+4301,10,5,59,4,1,1,411,6,Promising / Potential
+1940,26,4,18,3,1,1,311,5,At Risk
+1272,49,26,903,3,4,3,343,10,Champions
+1388,11,8,112,4,2,2,422,8,Loyal Customers
+1044,44,20,596,3,3,3,333,9,Loyal Customers
+6969,75,13,233,1,2,2,122,5,At Risk
+10479,64,11,1511,2,2,4,224,8,Loyal Customers
+3619,19,17,1152,4,3,4,434,11,Champions
+1715,45,7,48,3,1,1,311,5,At Risk
+10159,77,31,1185,1,4,4,144,9,Loyal Customers
+1463,9,4,21,4,1,1,411,6,Promising / Potential
+5114,1,16,965,4,3,3,433,10,Champions
+4990,90,21,869,1,3,3,133,7,Promising / Potential
+4329,43,6,16,3,1,1,311,5,At Risk
+10936,79,16,1947,1,3,4,134,8,Loyal Customers
+4692,19,12,71,4,2,2,422,8,Loyal Customers
+7212,99,6,65,1,1,1,111,3,Lost / Inactive
+6086,62,24,1380,2,4,4,244,10,Champions
+437,41,23,1027,3,4,3,343,10,Champions
+11171,60,21,411,2,3,3,233,8,Loyal Customers
+11101,17,26,836,4,4,3,443,11,Champions
+5329,24,4,11,4,1,1,411,6,Promising / Potential
+610,60,23,480,2,4,3,243,9,Loyal Customers
+9384,57,23,606,2,4,3,243,9,Loyal Customers
+5956,74,16,284,2,3,2,232,7,Promising / Potential
+10430,22,14,1472,4,2,4,424,10,Champions
+7875,46,26,1677,3,4,4,344,11,Champions
+7072,69,19,1335,2,3,4,234,9,Loyal Customers
+6255,29,13,334,3,2,2,322,7,Promising / Potential
+6516,37,4,18,3,1,1,311,5,At Risk
+5564,26,20,1338,3,3,4,334,10,Champions
+5682,8,30,1099,4,4,4,444,12,Champions
+7458,26,8,97,3,2,2,322,7,Promising / Potential
+5237,79,9,63,1,2,1,121,4,At Risk
+7761,71,9,109,2,2,2,222,6,Promising / Potential
+5278,83,21,902,1,3,3,133,7,Promising / Potential
+3560,57,20,1574,2,3,4,234,9,Loyal Customers
+7235,37,9,38,3,2,1,321,6,Promising / Potential
+10548,30,24,960,3,4,3,343,10,Champions
+2281,34,4,28,3,1,1,311,5,At Risk
+4073,0,28,1215,4,4,4,444,12,Champions
+6974,89,22,1497,1,4,4,144,9,Loyal Customers
+7938,92,17,449,1,3,3,133,7,Promising / Potential
+7094,87,24,1064,1,4,4,144,9,Loyal Customers
+3667,20,25,1757,4,4,4,444,12,Champions
+7723,56,21,1440,2,3,4,234,9,Loyal Customers
+3870,28,24,1006,3,4,3,343,10,Champions
+4012,55,23,1226,2,4,4,244,10,Champions
+5909,25,20,1171,3,3,4,334,10,Champions
+10470,0,8,92,4,2,2,422,8,Loyal Customers
+6488,86,8,99,1,2,2,122,5,At Risk
+10270,8,8,66,4,2,1,421,7,Promising / Potential
+6887,33,19,564,3,3,3,333,9,Loyal Customers
+6406,13,21,1427,4,3,4,434,11,Champions
+7573,12,6,86,4,1,2,412,7,Promising / Potential
+4508,92,19,833,1,3,3,133,7,Promising / Potential
+221,90,12,242,1,2,2,122,5,At Risk
+5331,8,17,1869,4,3,4,434,11,Champions
+1911,6,29,1364,4,4,4,444,12,Champions
+20,91,8,183,1,2,2,122,5,At Risk
+8786,52,18,450,2,3,3,233,8,Loyal Customers
+10582,3,21,758,4,3,3,433,10,Champions
+1915,57,20,1507,2,3,4,234,9,Loyal Customers
+8897,9,25,654,4,4,3,443,11,Champions
+2371,22,9,81,4,2,2,422,8,Loyal Customers
+4303,76,1,137,1,1,2,112,4,At Risk
+6825,86,4,16,1,1,1,111,3,Lost / Inactive
+1072,64,8,93,2,2,2,222,6,Promising / Potential
+4964,90,18,1158,1,3,4,134,8,Loyal Customers
+2461,79,6,43,1,1,1,111,3,Lost / Inactive
+10736,28,22,1525,3,4,4,344,11,Champions
+3194,86,19,1230,1,3,4,134,8,Loyal Customers
+10839,42,6,29,3,1,1,311,5,At Risk
+49,39,5,25,3,1,1,311,5,At Risk
+4290,8,4,24,4,1,1,411,6,Promising / Potential
+10219,40,5,38,3,1,1,311,5,At Risk
+4211,5,7,57,4,1,1,411,6,Promising / Potential
+1135,96,12,47,1,2,1,121,4,At Risk
+6299,28,24,813,3,4,3,343,10,Champions
+10846,22,22,629,4,4,3,443,11,Champions
+347,30,17,377,3,3,2,332,8,Loyal Customers
+6543,45,14,1612,3,2,4,324,9,Loyal Customers
+10446,58,17,729,2,3,3,233,8,Loyal Customers
+3479,49,6,50,3,1,1,311,5,At Risk
+11075,37,15,270,3,2,2,322,7,Promising / Potential
+4442,70,9,177,2,2,2,222,6,Promising / Potential
+199,33,13,315,3,2,2,322,7,Promising / Potential
+6722,98,23,767,1,4,3,143,8,Loyal Customers
+796,17,26,1071,4,4,4,444,12,Champions
+3749,54,24,1580,2,4,4,244,10,Champions
+8523,39,10,60,3,2,1,321,6,Promising / Potential
+310,81,21,573,1,3,3,133,7,Promising / Potential
+8629,71,5,41,2,1,1,211,4,At Risk
+236,62,10,170,2,2,2,222,6,Promising / Potential
+9930,8,28,1167,4,4,4,444,12,Champions
+3483,76,25,1526,1,4,4,144,9,Loyal Customers
+4599,66,21,458,2,3,3,233,8,Loyal Customers
+7326,83,6,63,1,1,1,111,3,Lost / Inactive
+7352,28,17,405,3,3,3,333,9,Loyal Customers
+2350,87,20,1027,1,3,3,133,7,Promising / Potential
+9145,43,22,1478,3,4,4,344,11,Champions
+2964,0,5,72,4,1,2,412,7,Promising / Potential
+5585,1,7,48,4,1,1,411,6,Promising / Potential
+9687,1,16,726,4,3,3,433,10,Champions
+3732,72,27,860,2,4,3,243,9,Loyal Customers
+6303,72,22,1497,2,4,4,244,10,Champions
+11176,12,18,495,4,3,3,433,10,Champions
+2986,89,4,20,1,1,1,111,3,Lost / Inactive
+7462,67,19,570,2,3,3,233,8,Loyal Customers
+3900,54,21,769,2,3,3,233,8,Loyal Customers
+7034,34,7,55,3,1,1,311,5,At Risk
+9493,15,18,1808,4,3,4,434,11,Champions
+1143,43,7,55,3,1,1,311,5,At Risk
+1,0,18,577,4,3,3,433,10,Champions
+3855,74,8,162,2,2,2,222,6,Promising / Potential
+5536,61,20,1957,2,3,4,234,9,Loyal Customers
+5989,51,24,1576,2,4,4,244,10,Champions
+9499,97,17,1616,1,3,4,134,8,Loyal Customers
+6768,75,6,36,1,1,1,111,3,Lost / Inactive
+2150,83,22,1482,1,4,4,144,9,Loyal Customers
+6646,23,5,22,4,1,1,411,6,Promising / Potential
+4887,65,6,63,2,1,1,211,4,At Risk
+8560,94,18,680,1,3,3,133,7,Promising / Potential
+3321,42,20,542,3,3,3,333,9,Loyal Customers
+11003,10,7,50,4,1,1,411,6,Promising / Potential
+10402,94,6,39,1,1,1,111,3,Lost / Inactive
+9904,50,28,1043,2,4,3,243,9,Loyal Customers
+6141,46,14,385,3,2,2,322,7,Promising / Potential
+5687,98,27,1633,1,4,4,144,9,Loyal Customers
+10856,42,5,46,3,1,1,311,5,At Risk
+5121,30,20,761,3,3,3,333,9,Loyal Customers
+4186,11,9,76,4,2,2,422,8,Loyal Customers
+368,61,14,290,2,2,2,222,6,Promising / Potential
+3312,12,11,89,4,2,2,422,8,Loyal Customers
+11121,76,11,70,1,2,2,122,5,At Risk
+5332,2,17,1066,4,3,4,434,11,Champions
+5848,43,19,2009,3,3,4,334,10,Champions
+10343,27,19,1345,3,3,4,334,10,Champions
+5935,60,23,764,2,4,3,243,9,Loyal Customers
+2895,79,11,195,1,2,2,122,5,At Risk
+10262,96,11,53,1,2,1,121,4,At Risk
+7848,17,13,368,4,2,2,422,8,Loyal Customers
+9477,0,20,544,4,3,3,433,10,Champions
+4856,38,25,1853,3,4,4,344,11,Champions
+7186,43,6,35,3,1,1,311,5,At Risk
+5794,1,18,446,4,3,3,433,10,Champions
+1456,25,31,1180,3,4,4,344,11,Champions
+4877,2,5,41,4,1,1,411,6,Promising / Potential
+425,66,22,727,2,4,3,243,9,Loyal Customers
+3007,49,6,40,3,1,1,311,5,At Risk
+1031,5,26,1062,4,4,4,444,12,Champions
+4297,71,7,40,2,1,1,211,4,At Risk
+807,35,17,292,3,3,2,332,8,Loyal Customers
+9553,94,4,15,1,1,1,111,3,Lost / Inactive
+4271,80,17,341,1,3,2,132,6,Promising / Potential
+4120,61,13,369,2,2,2,222,6,Promising / Potential
+2036,29,17,401,3,3,3,333,9,Loyal Customers
+115,0,17,393,4,3,2,432,9,Loyal Customers
+4259,80,4,10,1,1,1,111,3,Lost / Inactive
+8687,54,16,486,2,3,3,233,8,Loyal Customers
+2447,71,7,69,2,1,1,211,4,At Risk
+10140,27,17,1727,3,3,4,334,10,Champions
+9353,61,16,995,2,3,3,233,8,Loyal Customers
+3623,55,10,45,2,2,1,221,5,At Risk
+738,35,12,182,3,2,2,322,7,Promising / Potential
+7631,34,23,989,3,4,3,343,10,Champions
+4789,95,18,1677,1,3,4,134,8,Loyal Customers
+773,64,23,595,2,4,3,243,9,Loyal Customers
+10602,30,9,156,3,2,2,322,7,Promising / Potential
+1446,12,28,1226,4,4,4,444,12,Champions
+3270,96,11,128,1,2,2,122,5,At Risk
+8443,16,9,86,4,2,2,422,8,Loyal Customers
+9653,16,7,68,4,1,1,411,6,Promising / Potential
+8916,78,4,16,1,1,1,111,3,Lost / Inactive
+8017,83,7,55,1,1,1,111,3,Lost / Inactive
+5830,96,22,2114,1,4,4,144,9,Loyal Customers
+4597,67,19,2018,2,3,4,234,9,Loyal Customers
+7023,87,15,263,1,2,2,122,5,At Risk
+8086,34,7,55,3,1,1,311,5,At Risk
+8825,46,24,564,3,4,3,343,10,Champions
+2930,7,20,1281,4,3,4,434,11,Champions
+1928,73,7,83,2,1,2,212,5,At Risk
+7108,54,18,353,2,3,2,232,7,Promising / Potential
+10925,93,25,1003,1,4,3,143,8,Loyal Customers
+9960,52,4,14,2,1,1,211,4,At Risk
+8800,53,24,902,2,4,3,243,9,Loyal Customers
+9224,81,25,1139,1,4,4,144,9,Loyal Customers
+5519,8,20,797,4,3,3,433,10,Champions
+5046,97,25,1638,1,4,4,144,9,Loyal Customers
+7037,50,17,401,2,3,3,233,8,Loyal Customers
+905,38,11,84,3,2,2,322,7,Promising / Potential
+8624,61,18,928,2,3,3,233,8,Loyal Customers
+8945,46,11,203,3,2,2,322,7,Promising / Potential
+6445,73,16,858,2,3,3,233,8,Loyal Customers
+2727,19,13,409,4,2,3,423,9,Loyal Customers
+6404,10,16,282,4,3,2,432,9,Loyal Customers
+11074,94,18,1423,1,3,4,134,8,Loyal Customers
+10150,10,18,1449,4,3,4,434,11,Champions
+1968,37,4,28,3,1,1,311,5,At Risk
+6534,94,6,67,1,1,1,111,3,Lost / Inactive
+9485,23,10,199,4,2,2,422,8,Loyal Customers
+7053,75,22,1453,1,4,4,144,9,Loyal Customers
+4654,40,19,1253,3,3,4,334,10,Champions
+9760,24,31,1198,4,4,4,444,12,Champions
+1048,11,10,178,4,2,2,422,8,Loyal Customers
+10619,29,18,1990,3,3,4,334,10,Champions
+9308,51,14,976,2,2,3,223,7,Promising / Potential
+10505,86,15,1001,1,2,3,123,6,Promising / Potential
+8362,9,20,1919,4,3,4,434,11,Champions
+2625,30,14,350,3,2,2,322,7,Promising / Potential
+4637,73,25,1650,2,4,4,244,10,Champions
+9972,25,5,46,3,1,1,311,5,At Risk
+4483,67,19,1228,2,3,4,234,9,Loyal Customers
+4487,67,7,95,2,1,2,212,5,At Risk
+4988,58,9,62,2,2,1,221,5,At Risk
+8931,82,26,1761,1,4,4,144,9,Loyal Customers
+5871,98,16,467,1,3,3,133,7,Promising / Potential
+2008,93,19,1149,1,3,4,134,8,Loyal Customers
+3139,53,19,2052,2,3,4,234,9,Loyal Customers
+10037,66,16,1127,2,3,4,234,9,Loyal Customers
+10673,6,21,1416,4,3,4,434,11,Champions
+5303,42,20,1113,3,3,4,334,10,Champions
+538,78,7,125,1,1,2,112,4,At Risk
+7922,29,25,966,3,4,3,343,10,Champions
+5692,82,5,32,1,1,1,111,3,Lost / Inactive
+4843,92,19,833,1,3,3,133,7,Promising / Potential
+6383,78,8,46,1,2,1,121,4,At Risk
+1628,54,17,960,2,3,3,233,8,Loyal Customers
+1204,45,30,1829,3,4,4,344,11,Champions
+3673,59,26,779,2,4,3,243,9,Loyal Customers
+760,8,23,811,4,4,3,443,11,Champions
+8957,51,22,1120,2,4,4,244,10,Champions
+4128,51,20,725,2,3,3,233,8,Loyal Customers
+6810,76,12,1187,1,2,4,124,7,Promising / Potential
+5386,62,18,2302,2,3,4,234,9,Loyal Customers
+8700,86,9,66,1,2,1,121,4,At Risk
+3202,60,19,1250,2,3,4,234,9,Loyal Customers
+1328,56,20,683,2,3,3,233,8,Loyal Customers
+8405,83,13,305,1,2,2,122,5,At Risk
+6515,92,6,50,1,1,1,111,3,Lost / Inactive
+2882,31,16,995,3,3,3,333,9,Loyal Customers
+7574,80,6,41,1,1,1,111,3,Lost / Inactive
+6387,39,9,77,3,2,2,322,7,Promising / Potential
+5320,20,12,171,4,2,2,422,8,Loyal Customers
+5048,53,7,131,2,1,2,212,5,At Risk
+8146,84,5,54,1,1,1,111,3,Lost / Inactive
+10031,50,12,53,2,2,1,221,5,At Risk
+5748,96,16,475,1,3,3,133,7,Promising / Potential
+2134,94,22,694,1,4,3,143,8,Loyal Customers
+1523,25,8,96,3,2,2,322,7,Promising / Potential
+9665,48,16,361,3,3,2,332,8,Loyal Customers
+4640,65,26,1079,2,4,4,244,10,Champions
+3635,69,20,578,2,3,3,233,8,Loyal Customers
+3547,12,7,64,4,1,1,411,6,Promising / Potential
+2456,84,13,149,1,2,2,122,5,At Risk
+5633,47,17,231,3,3,2,332,8,Loyal Customers
+7801,87,21,728,1,3,3,133,7,Promising / Potential
+10489,35,23,1778,3,4,4,344,11,Champions
+7011,47,10,93,3,2,2,322,7,Promising / Potential
+2620,48,4,23,3,1,1,311,5,At Risk
+3933,46,24,662,3,4,3,343,10,Champions
+10981,27,18,1198,3,3,4,334,10,Champions
+1734,37,11,81,3,2,2,322,7,Promising / Potential
+10995,8,10,92,4,2,2,422,8,Loyal Customers
+6357,29,18,491,3,3,3,333,9,Loyal Customers
+9209,85,24,1564,1,4,4,144,9,Loyal Customers
+10286,2,24,926,4,4,3,443,11,Champions
+2611,66,19,1910,2,3,4,234,9,Loyal Customers
+1600,60,21,411,2,3,3,233,8,Loyal Customers
+3308,54,9,94,2,2,2,222,6,Promising / Potential
+5407,70,28,1085,2,4,4,244,10,Champions
+2166,55,4,23,2,1,1,211,4,At Risk
+3955,20,0,6,4,1,1,411,6,Promising / Potential
+6634,78,6,54,1,1,1,111,3,Lost / Inactive
+3056,63,29,1150,2,4,4,244,10,Champions
+5718,17,23,1415,4,4,4,444,12,Champions
+6872,43,16,405,3,3,3,333,9,Loyal Customers
+8164,13,19,1908,4,3,4,434,11,Champions
+4580,46,26,2486,3,4,4,344,11,Champions
+9305,65,27,1315,2,4,4,244,10,Champions
+453,1,7,45,4,1,1,411,6,Promising / Potential
+8545,6,17,1789,4,3,4,434,11,Champions
+9850,32,4,19,3,1,1,311,5,At Risk
+7378,34,22,573,3,4,3,343,10,Champions
+7646,70,24,805,2,4,3,243,9,Loyal Customers
+1640,49,8,108,3,2,2,322,7,Promising / Potential
+5184,65,4,23,2,1,1,211,4,At Risk
+8492,25,23,1493,3,4,4,344,11,Champions
+11188,84,9,89,1,2,2,122,5,At Risk
+1212,7,25,936,4,4,3,443,11,Champions
+9097,34,16,343,3,3,2,332,8,Loyal Customers
+10473,38,20,528,3,3,3,333,9,Loyal Customers
+7962,1,12,1901,4,2,4,424,10,Champions
+9984,25,22,724,3,4,3,343,10,Champions
+5527,25,7,58,3,1,1,311,5,At Risk
+6374,50,16,297,2,3,2,232,7,Promising / Potential
+7453,46,21,488,3,3,3,333,9,Loyal Customers
+8952,96,23,859,1,4,3,143,8,Loyal Customers
+241,57,20,1574,2,3,4,234,9,Loyal Customers
+8975,47,10,69,3,2,1,321,6,Promising / Potential
+6119,52,4,17,2,1,1,211,4,At Risk
+5236,30,21,2194,3,3,4,334,10,Champions
+5723,63,8,116,2,2,2,222,6,Promising / Potential
+1710,51,18,279,2,3,2,232,7,Promising / Potential
+1970,14,7,103,4,1,2,412,7,Promising / Potential
+5313,20,9,44,4,2,1,421,7,Promising / Potential
+10634,56,15,406,2,2,3,223,7,Promising / Potential
+7010,41,20,1363,3,3,4,334,10,Champions
+8562,72,11,236,2,2,2,222,6,Promising / Potential
+3158,1,5,39,4,1,1,411,6,Promising / Potential
+4436,27,8,137,3,2,2,322,7,Promising / Potential
+5287,77,10,79,1,2,2,122,5,At Risk
+2445,87,6,63,1,1,1,111,3,Lost / Inactive
+6059,81,25,1314,1,4,4,144,9,Loyal Customers
+4550,51,6,71,2,1,2,212,5,At Risk
+4240,79,7,58,1,1,1,111,3,Lost / Inactive
+8911,11,21,702,4,3,3,433,10,Champions
+3706,54,7,94,2,1,2,212,5,At Risk
+3628,93,7,80,1,1,2,112,4,At Risk
+10175,0,5,22,4,1,1,411,6,Promising / Potential
+8985,54,32,1211,2,4,4,244,10,Champions
+5204,21,22,1461,4,4,4,444,12,Champions
+9220,58,20,1968,2,3,4,234,9,Loyal Customers
+9888,3,16,1091,4,3,4,434,11,Champions
+5263,99,5,55,1,1,1,111,3,Lost / Inactive
+1020,70,19,1366,2,3,4,234,9,Loyal Customers
+9503,65,13,313,2,2,2,222,6,Promising / Potential
+10613,44,11,62,3,2,1,321,6,Promising / Potential
+67,6,9,92,4,2,2,422,8,Loyal Customers
+6019,9,6,72,4,1,2,412,7,Promising / Potential
+5863,95,21,655,1,4,3,143,8,Loyal Customers
+3717,70,18,704,2,3,3,233,8,Loyal Customers
+6730,92,8,54,1,2,1,121,4,At Risk
+10749,62,16,178,2,3,2,232,7,Promising / Potential
+4998,85,14,1033,1,2,3,123,6,Promising / Potential
+6287,2,5,36,4,1,1,411,6,Promising / Potential
+5985,0,10,122,4,2,2,422,8,Loyal Customers
+4754,91,7,122,1,1,2,112,4,At Risk
+4002,3,27,1123,4,4,4,444,12,Champions
+8870,68,18,497,2,3,3,233,8,Loyal Customers
+966,98,25,691,1,4,3,143,8,Loyal Customers
+4767,41,20,1363,3,3,4,334,10,Champions
+9725,16,4,12,4,1,1,411,6,Promising / Potential
+4475,82,25,2440,1,4,4,144,9,Loyal Customers
+5740,1,7,56,4,1,1,411,6,Promising / Potential
+5731,64,5,37,2,1,1,211,4,At Risk
+7290,68,21,968,2,4,3,243,9,Loyal Customers
+3846,98,15,270,1,2,2,122,5,At Risk
+8104,32,12,278,3,2,2,322,7,Promising / Potential
+4507,87,22,1250,1,4,4,144,9,Loyal Customers
+11013,84,17,938,1,3,3,133,7,Promising / Potential
+4491,3,28,1178,4,4,4,444,12,Champions
+3759,34,26,1155,3,4,4,344,11,Champions
+1162,23,20,653,4,3,3,433,10,Champions
+2055,37,6,49,3,1,1,311,5,At Risk
+10766,22,17,506,4,3,3,433,10,Champions
+4415,19,8,38,4,2,1,421,7,Promising / Potential
+3005,7,23,1650,4,4,4,444,12,Champions
+2223,52,33,1826,2,4,4,244,10,Champions
+4817,91,4,18,1,1,1,111,3,Lost / Inactive
+2875,93,24,906,1,4,3,143,8,Loyal Customers
+10536,78,8,46,1,2,1,121,4,At Risk
+11112,23,25,1477,4,4,4,444,12,Champions
+3807,83,23,766,1,4,3,143,8,Loyal Customers
+9197,92,7,47,1,1,1,111,3,Lost / Inactive
+10832,4,14,467,4,2,3,423,9,Loyal Customers
+6421,32,21,2116,3,4,4,344,11,Champions
+4207,27,25,1298,3,4,4,344,11,Champions
+577,10,6,22,4,1,1,411,6,Promising / Potential
+10855,9,15,396,4,2,2,422,8,Loyal Customers
+3081,65,4,20,2,1,1,211,4,At Risk
+3535,68,13,967,2,2,3,223,7,Promising / Potential
+247,16,19,357,4,3,2,432,9,Loyal Customers
+8707,12,16,1401,4,3,4,434,11,Champions
+9523,95,4,15,1,1,1,111,3,Lost / Inactive
+6072,16,20,2087,4,3,4,434,11,Champions
+6295,46,26,981,3,4,3,343,10,Champions
+10914,3,6,17,4,1,1,411,6,Promising / Potential
+1509,80,22,523,1,4,3,143,8,Loyal Customers
+5577,77,4,23,1,1,1,111,3,Lost / Inactive
+7348,0,17,1192,4,3,4,434,11,Champions
+1127,62,20,1958,2,3,4,234,9,Loyal Customers
+1833,91,9,133,1,2,2,122,5,At Risk
+4944,24,17,777,4,3,3,433,10,Champions
+9080,2,9,73,4,2,2,422,8,Loyal Customers
+6466,22,10,121,4,2,2,422,8,Loyal Customers
+9964,56,15,424,2,2,3,223,7,Promising / Potential
+4790,54,13,868,2,2,3,223,7,Promising / Potential
+10245,71,15,756,2,2,3,223,7,Promising / Potential
+1109,38,4,12,3,1,1,311,5,At Risk
+6001,62,25,937,2,4,3,243,9,Loyal Customers
+5538,78,17,1862,1,3,4,134,8,Loyal Customers
+10552,18,14,367,4,2,2,422,8,Loyal Customers
+1545,95,20,443,1,3,3,133,7,Promising / Potential
+7409,66,13,267,2,2,2,222,6,Promising / Potential
+4444,28,6,61,3,1,1,311,5,At Risk
+146,78,21,1323,1,4,4,144,9,Loyal Customers
+6271,13,6,63,4,1,1,411,6,Promising / Potential
+10065,27,8,64,3,2,1,321,6,Promising / Potential
+4741,17,19,562,4,3,3,433,10,Champions
+246,71,19,312,2,3,2,232,7,Promising / Potential
+375,79,16,1156,1,3,4,134,8,Loyal Customers
+1524,1,16,1104,4,3,4,434,11,Champions
+10022,78,4,16,1,1,1,111,3,Lost / Inactive
+7451,23,19,2008,4,3,4,434,11,Champions
+11010,75,9,44,1,2,1,121,4,At Risk
+4356,70,14,1574,2,2,4,224,8,Loyal Customers
+3885,10,5,63,4,1,1,411,6,Promising / Potential
+1175,24,12,426,4,2,3,423,9,Loyal Customers
+880,47,6,96,3,1,2,312,6,Promising / Potential
+2320,98,23,635,1,4,3,143,8,Loyal Customers
+850,4,22,757,4,4,3,443,11,Champions
+4713,15,9,125,4,2,2,422,8,Loyal Customers
+675,67,16,332,2,3,2,232,7,Promising / Potential
+5025,32,8,135,3,2,2,322,7,Promising / Potential
+2308,40,14,330,3,2,2,322,7,Promising / Potential
+5995,54,20,384,2,3,2,232,7,Promising / Potential
+6749,78,18,1722,1,3,4,134,8,Loyal Customers
+1010,94,7,78,1,1,2,112,4,At Risk
+8977,51,4,24,2,1,1,211,4,At Risk
+4756,42,25,1168,3,4,4,344,11,Champions
+3412,67,17,957,2,3,3,233,8,Loyal Customers
+606,87,4,15,1,1,1,111,3,Lost / Inactive
+5961,29,5,57,3,1,1,311,5,At Risk
+2975,89,24,1956,1,4,4,144,9,Loyal Customers
+2894,74,21,2013,2,4,4,244,10,Champions
+7613,97,14,326,1,2,2,122,5,At Risk
+10542,63,9,77,2,2,2,222,6,Promising / Potential
+8015,88,20,1313,1,3,4,134,8,Loyal Customers
+10617,34,8,30,3,2,1,321,6,Promising / Potential
+11166,81,14,315,1,2,2,122,5,At Risk
+849,65,22,660,2,4,3,243,9,Loyal Customers
+523,51,7,74,2,1,2,212,5,At Risk
+4066,76,7,46,1,1,1,111,3,Lost / Inactive
+8414,76,8,86,1,2,2,122,5,At Risk
+819,84,25,1103,1,4,4,144,9,Loyal Customers
+4961,56,11,61,2,2,1,221,5,At Risk
+749,31,9,145,3,2,2,322,7,Promising / Potential
+5430,0,31,684,4,4,3,443,11,Champions
+7755,91,16,411,1,3,3,133,7,Promising / Potential
+10525,40,4,27,3,1,1,311,5,At Risk
+1453,59,27,1060,2,4,4,244,10,Champions
+8310,96,24,1459,1,4,4,144,9,Loyal Customers
+10710,61,4,18,2,1,1,211,4,At Risk
+5031,14,26,1833,4,4,4,444,12,Champions
+2613,16,12,237,4,2,2,422,8,Loyal Customers
+213,98,10,48,1,2,1,121,4,At Risk
+967,11,26,515,4,4,3,443,11,Champions
+1077,52,15,1020,2,2,3,223,7,Promising / Potential
+7959,19,11,1370,4,2,4,424,10,Champions
+640,61,25,1026,2,4,3,243,9,Loyal Customers
+4252,73,12,301,2,2,2,222,6,Promising / Potential
+8432,0,31,684,4,4,3,443,11,Champions
+6218,74,17,499,2,3,3,233,8,Loyal Customers
+6905,55,21,1004,2,4,3,243,9,Loyal Customers
+5922,48,12,218,3,2,2,322,7,Promising / Potential
+3598,53,22,606,2,4,3,243,9,Loyal Customers
+6116,13,6,75,4,1,2,412,7,Promising / Potential
+6263,34,9,106,3,2,2,322,7,Promising / Potential
+10486,54,17,990,2,3,3,233,8,Loyal Customers
+2410,69,16,1097,2,3,4,234,9,Loyal Customers
+193,81,4,16,1,1,1,111,3,Lost / Inactive
+3363,99,5,34,1,1,1,111,3,Lost / Inactive
+8278,3,16,1711,4,3,4,434,11,Champions
+10660,61,17,438,2,3,3,233,8,Loyal Customers
+8686,65,7,75,2,1,2,212,5,At Risk
+1604,93,13,225,1,2,2,122,5,At Risk
+5907,24,4,18,4,1,1,411,6,Promising / Potential
+10669,8,17,470,4,3,3,433,10,Champions
+2918,72,9,91,2,2,2,222,6,Promising / Potential
+5735,29,18,2525,3,3,4,334,10,Champions
+359,33,19,504,3,3,3,333,9,Loyal Customers
+8387,68,11,235,2,2,2,222,6,Promising / Potential
+1829,55,21,1232,2,4,4,244,10,Champions
+3839,76,12,88,1,2,2,122,5,At Risk
+9392,17,4,17,4,1,1,411,6,Promising / Potential
+2292,94,5,24,1,1,1,111,3,Lost / Inactive
+10466,86,7,60,1,1,1,111,3,Lost / Inactive
+9855,25,26,1020,3,4,3,343,10,Champions
+4088,22,10,155,4,2,2,422,8,Loyal Customers
+5231,15,5,51,4,1,1,411,6,Promising / Potential
+590,35,16,1812,3,3,4,334,10,Champions
+8732,81,25,1461,1,4,4,144,9,Loyal Customers
+2315,55,6,96,2,1,2,212,5,At Risk
+3515,94,9,160,1,2,2,122,5,At Risk
+2245,50,10,139,2,2,2,222,6,Promising / Potential
+6283,64,22,908,2,4,3,243,9,Loyal Customers
+2246,91,8,183,1,2,2,122,5,At Risk
+6606,11,19,1161,4,3,4,434,11,Champions
+5545,72,14,988,2,2,3,223,7,Promising / Potential
+7342,6,27,1072,4,4,4,444,12,Champions
+837,0,12,174,4,2,2,422,8,Loyal Customers
+9500,66,22,758,2,4,3,243,9,Loyal Customers
+3602,42,11,195,3,2,2,322,7,Promising / Potential
+234,60,6,31,2,1,1,211,4,At Risk
+2995,64,17,1084,2,3,4,234,9,Loyal Customers
+1118,87,22,685,1,4,3,143,8,Loyal Customers
+7789,96,26,1672,1,4,4,144,9,Loyal Customers
+3068,1,6,43,4,1,1,411,6,Promising / Potential
+8955,54,5,49,2,1,1,211,4,At Risk
+945,53,9,133,2,2,2,222,6,Promising / Potential
+5644,96,15,363,1,2,2,122,5,At Risk
+7192,58,18,545,2,3,3,233,8,Loyal Customers
+2324,12,31,1065,4,4,4,444,12,Champions
+697,78,21,2047,1,4,4,144,9,Loyal Customers
+3439,64,15,296,2,2,2,222,6,Promising / Potential
+1506,26,11,140,3,2,2,322,7,Promising / Potential
+232,8,17,530,4,3,3,433,10,Champions
+8876,49,13,152,3,2,2,322,7,Promising / Potential
+4500,56,24,1598,2,4,4,244,10,Champions
+9739,55,8,114,2,2,2,222,6,Promising / Potential
+10395,25,10,101,3,2,2,322,7,Promising / Potential
+1176,50,4,25,2,1,1,211,4,At Risk
+1627,84,22,789,1,4,3,143,8,Loyal Customers
+938,30,7,87,3,1,2,312,6,Promising / Potential
+2740,81,11,90,1,2,2,122,5,At Risk
+257,74,20,1215,2,3,4,234,9,Loyal Customers
+4058,76,22,811,1,4,3,143,8,Loyal Customers
+7736,36,7,61,3,1,1,311,5,At Risk
+8210,64,18,405,2,3,3,233,8,Loyal Customers
+833,62,9,72,2,2,2,222,6,Promising / Potential
+6230,53,14,189,2,2,2,222,6,Promising / Potential
+7325,86,5,40,1,1,1,111,3,Lost / Inactive
+1307,15,10,63,4,2,1,421,7,Promising / Potential
+1502,67,7,52,2,1,1,211,4,At Risk
+6211,47,5,39,3,1,1,311,5,At Risk
+843,47,25,805,3,4,3,343,10,Champions
+4174,81,8,130,1,2,2,122,5,At Risk
+9757,98,24,1631,1,4,4,144,9,Loyal Customers
+6918,56,5,34,2,1,1,211,4,At Risk
+286,48,12,152,3,2,2,322,7,Promising / Potential
+11086,18,5,21,4,1,1,411,6,Promising / Potential
+1921,74,7,71,2,1,2,212,5,At Risk
+4138,68,23,899,2,4,3,243,9,Loyal Customers
+7718,36,10,711,3,2,3,323,8,Loyal Customers
+1291,90,16,351,1,3,2,132,6,Promising / Potential
+6862,65,15,8,2,2,1,221,5,At Risk
+4136,63,11,119,2,2,2,222,6,Promising / Potential
+803,82,4,21,1,1,1,111,3,Lost / Inactive
+4298,63,4,10,2,1,1,211,4,At Risk
+10833,55,27,973,2,4,3,243,9,Loyal Customers
+9606,64,13,1536,2,2,4,224,8,Loyal Customers
+8534,51,28,992,2,4,3,243,9,Loyal Customers
+5153,97,34,1529,1,4,4,144,9,Loyal Customers
+961,92,17,860,1,3,3,133,7,Promising / Potential
+5011,51,23,928,2,4,3,243,9,Loyal Customers
+6653,72,18,418,2,3,3,233,8,Loyal Customers
+9094,39,16,587,3,3,3,333,9,Loyal Customers
+810,49,19,641,3,3,3,333,9,Loyal Customers
+5493,21,4,23,4,1,1,411,6,Promising / Potential
+2147,91,23,2279,1,4,4,144,9,Loyal Customers
+5107,37,6,49,3,1,1,311,5,At Risk
+3979,98,17,1779,1,3,4,134,8,Loyal Customers
+6049,85,27,1804,1,4,4,144,9,Loyal Customers
+8147,40,8,48,3,2,1,321,6,Promising / Potential
+1857,2,7,83,4,1,2,412,7,Promising / Potential
+3910,78,17,1862,1,3,4,134,8,Loyal Customers
+5207,41,29,793,3,4,3,343,10,Champions
+11114,94,9,84,1,2,2,122,5,At Risk
+5429,10,10,183,4,2,2,422,8,Loyal Customers
+9400,73,19,1383,2,3,4,234,9,Loyal Customers
+1740,22,16,999,4,3,3,433,10,Champions
+7488,30,24,825,3,4,3,343,10,Champions
+195,21,14,246,4,2,2,422,8,Loyal Customers
+635,51,25,610,2,4,3,243,9,Loyal Customers
+7527,97,9,76,1,2,2,122,5,At Risk
+10319,56,22,1286,2,4,4,244,10,Champions
+2296,4,4,30,4,1,1,411,6,Promising / Potential
+10637,77,8,99,1,2,2,122,5,At Risk
+2931,95,22,1192,1,4,4,144,9,Loyal Customers
+907,36,18,362,3,3,2,332,8,Loyal Customers
+3698,13,19,2130,4,3,4,434,11,Champions
+9516,90,28,1229,1,4,4,144,9,Loyal Customers
+679,49,6,38,3,1,1,311,5,At Risk
+7384,18,17,485,4,3,3,433,10,Champions
+5043,89,13,434,1,2,3,123,6,Promising / Potential
+5267,43,5,44,3,1,1,311,5,At Risk
+339,82,18,496,1,3,3,133,7,Promising / Potential
+2516,84,7,78,1,1,2,112,4,At Risk
+9010,80,23,2346,1,4,4,144,9,Loyal Customers
+378,68,21,794,2,4,3,243,9,Loyal Customers
+4808,12,4,17,4,1,1,411,6,Promising / Potential
+5068,75,5,26,1,1,1,111,3,Lost / Inactive
+7628,10,8,76,4,2,2,422,8,Loyal Customers
+7128,91,4,15,1,1,1,111,3,Lost / Inactive
+2811,21,7,62,4,1,1,411,6,Promising / Potential
+3551,28,10,198,3,2,2,322,7,Promising / Potential
+1663,97,5,49,1,1,1,111,3,Lost / Inactive
+5543,49,25,802,3,4,3,343,10,Champions
+1577,14,15,1736,4,2,4,424,10,Champions
+10641,5,10,57,4,2,1,421,7,Promising / Potential
+5336,37,2,59,3,1,1,311,5,At Risk
+6024,62,18,2302,2,3,4,234,9,Loyal Customers
+1878,83,6,37,1,1,1,111,3,Lost / Inactive
+3099,48,16,310,3,3,2,332,8,Loyal Customers
+6055,94,19,1305,1,3,4,134,8,Loyal Customers
+5841,61,26,832,2,4,3,243,9,Loyal Customers
+3972,70,19,401,2,3,3,233,8,Loyal Customers
+4394,43,23,1501,3,4,4,344,11,Champions
+5758,23,28,1189,4,4,4,444,12,Champions
+6658,37,32,1194,3,4,4,344,11,Champions
+4603,50,21,656,2,4,3,243,9,Loyal Customers
+8427,78,23,1540,1,4,4,144,9,Loyal Customers
+10260,74,15,311,2,2,2,222,6,Promising / Potential
+7143,14,26,820,4,4,3,443,11,Champions
+8789,77,14,274,1,2,2,122,5,At Risk
+6197,39,9,57,3,2,1,321,6,Promising / Potential
+4554,89,17,448,1,3,3,133,7,Promising / Potential
+4937,62,5,44,2,1,1,211,4,At Risk
+1920,59,8,102,2,2,2,222,6,Promising / Potential
+8749,68,5,61,2,1,1,211,4,At Risk
+1650,13,27,1643,4,4,4,444,12,Champions
+10377,37,15,397,3,2,3,323,8,Loyal Customers
+9206,36,26,1121,3,4,4,344,11,Champions
+10971,28,16,473,3,3,3,333,9,Loyal Customers
+6398,2,8,50,4,2,1,421,7,Promising / Potential
+9212,17,28,1678,4,4,4,444,12,Champions
+7937,86,7,58,1,1,1,111,3,Lost / Inactive
+839,54,9,170,2,2,2,222,6,Promising / Potential
+4246,2,2,373,4,1,2,412,7,Promising / Potential
+158,3,17,1196,4,3,4,434,11,Champions
+4832,84,8,101,1,2,2,122,5,At Risk
+5621,8,17,316,4,3,2,432,9,Loyal Customers
+1945,4,21,1400,4,4,4,444,12,Champions
+5147,57,27,1424,2,4,4,244,10,Champions
+2535,24,20,844,4,3,3,433,10,Champions
+11039,51,13,311,2,2,2,222,6,Promising / Potential
+9495,29,17,1149,3,3,4,334,10,Champions
+9635,13,8,129,4,2,2,422,8,Loyal Customers
+2173,23,5,32,4,1,1,411,6,Promising / Potential
+942,36,14,299,3,2,2,322,7,Promising / Potential
+9386,88,13,320,1,2,2,122,5,At Risk
+5510,2,16,441,4,3,3,433,10,Champions
+873,3,28,1178,4,4,4,444,12,Champions
+2253,15,6,85,4,1,2,412,7,Promising / Potential
+5181,58,4,24,2,1,1,211,4,At Risk
+979,11,8,112,4,2,2,422,8,Loyal Customers
+10390,27,5,30,3,1,1,311,5,At Risk
+4698,32,16,410,3,3,3,333,9,Loyal Customers
+7793,12,24,800,4,4,3,443,11,Champions
+1745,88,20,1313,1,3,4,134,8,Loyal Customers
+10590,91,23,1483,1,4,4,144,9,Loyal Customers
+5080,12,17,1258,4,3,4,434,11,Champions
+8369,21,4,28,4,1,1,411,6,Promising / Potential
+5232,23,11,227,4,2,2,422,8,Loyal Customers
+2407,10,20,1555,4,3,4,434,11,Champions
+3834,35,23,861,3,4,3,343,10,Champions
+7912,69,8,103,2,2,2,222,6,Promising / Potential
+7712,68,19,634,2,3,3,233,8,Loyal Customers
+1065,85,19,1918,1,3,4,134,8,Loyal Customers
+7275,34,10,131,3,2,2,322,7,Promising / Potential
+1343,55,22,586,2,4,3,243,9,Loyal Customers
+1384,10,7,62,4,1,1,411,6,Promising / Potential
+9967,30,22,447,3,4,3,343,10,Champions
+6181,36,27,939,3,4,3,343,10,Champions
+10507,14,15,797,4,2,3,423,9,Loyal Customers
+2674,79,16,1143,1,3,4,134,8,Loyal Customers
+2698,52,17,415,2,3,3,233,8,Loyal Customers
+3231,97,5,30,1,1,1,111,3,Lost / Inactive
+4096,24,12,187,4,2,2,422,8,Loyal Customers
+10476,0,11,251,4,2,2,422,8,Loyal Customers
+5948,96,12,237,1,2,2,122,5,At Risk
+9140,89,8,91,1,2,2,122,5,At Risk
+10258,94,6,35,1,1,1,111,3,Lost / Inactive
+5675,98,22,493,1,4,3,143,8,Loyal Customers
+4743,72,28,971,2,4,3,243,9,Loyal Customers
+8805,1,17,371,4,3,2,432,9,Loyal Customers
+1542,26,20,396,3,3,2,332,8,Loyal Customers
+6770,5,7,68,4,1,1,411,6,Promising / Potential
+8773,22,15,322,4,2,2,422,8,Loyal Customers
+10475,39,14,317,3,2,2,322,7,Promising / Potential
+10420,56,10,222,2,2,2,222,6,Promising / Potential
+7514,74,12,177,2,2,2,222,6,Promising / Potential
+2902,87,5,45,1,1,1,111,3,Lost / Inactive
+4345,49,4,21,3,1,1,311,5,At Risk
+793,24,6,45,4,1,1,411,6,Promising / Potential
+10909,9,20,1899,4,3,4,434,11,Champions
+3769,17,5,42,4,1,1,411,6,Promising / Potential
+8702,10,6,22,4,1,1,411,6,Promising / Potential
+4791,35,5,41,3,1,1,311,5,At Risk
+2963,56,21,1440,2,4,4,244,10,Champions
+8216,7,17,325,4,3,2,432,9,Loyal Customers
+8140,51,10,95,2,2,2,222,6,Promising / Potential
+10146,17,5,42,4,1,1,411,6,Promising / Potential
+5289,30,6,72,3,1,2,312,6,Promising / Potential
+2587,21,7,20,4,1,1,411,6,Promising / Potential
+4405,2,23,789,4,4,3,443,11,Champions
+8663,85,4,15,1,1,1,111,3,Lost / Inactive
+2589,65,8,59,2,2,1,221,5,At Risk
+3421,64,22,908,2,4,3,243,9,Loyal Customers
+10490,11,14,417,4,2,3,423,9,Loyal Customers
+4094,92,15,289,1,2,2,122,5,At Risk
+9958,54,21,769,2,4,3,243,9,Loyal Customers
+2534,4,10,188,4,2,2,422,8,Loyal Customers
+4188,53,14,354,2,2,2,222,6,Promising / Potential
+6613,39,26,727,3,4,3,343,10,Champions
+10827,49,11,146,3,2,2,322,7,Promising / Potential
+5491,70,16,319,2,3,2,232,7,Promising / Potential
+8402,40,22,794,3,4,3,343,10,Champions
+8783,40,18,454,3,3,3,333,9,Loyal Customers
+10010,43,11,152,3,2,2,322,7,Promising / Potential
+618,17,22,797,4,4,3,443,11,Champions
+9121,40,16,1690,3,3,4,334,10,Champions
+361,84,4,20,1,1,1,111,3,Lost / Inactive
+4310,25,21,1428,3,4,4,344,11,Champions
+2678,62,11,209,2,2,2,222,6,Promising / Potential
+6376,83,19,545,1,3,3,133,7,Promising / Potential
+524,47,6,96,3,1,2,312,6,Promising / Potential
+10341,45,10,222,3,2,2,322,7,Promising / Potential
+5654,34,7,61,3,1,1,311,5,At Risk
+4098,3,9,44,4,2,1,421,7,Promising / Potential
+5824,1,4,8,4,1,1,411,6,Promising / Potential
+7000,18,23,817,4,4,3,443,11,Champions
+2561,45,23,1371,3,4,4,344,11,Champions
+5229,81,5,42,1,1,1,111,3,Lost / Inactive
+4086,77,5,60,1,1,1,111,3,Lost / Inactive
+2428,23,9,78,4,2,2,422,8,Loyal Customers
+8254,48,4,23,3,1,1,311,5,At Risk
+2836,61,4,19,2,1,1,211,4,At Risk
+8418,60,7,61,2,1,1,211,4,At Risk
+1362,75,14,449,1,2,3,123,6,Promising / Potential
+7152,64,5,37,2,1,1,211,4,At Risk
+10033,54,5,38,2,1,1,211,4,At Risk
+9349,84,23,1131,1,4,4,144,9,Loyal Customers
+274,75,7,34,1,1,1,111,3,Lost / Inactive
+3388,16,17,294,4,3,2,432,9,Loyal Customers
+922,79,6,48,1,1,1,111,3,Lost / Inactive
+8588,92,15,289,1,2,2,122,5,At Risk
+2518,16,4,30,4,1,1,411,6,Promising / Potential
+574,96,7,125,1,1,2,112,4,At Risk
+3220,30,9,156,3,2,2,322,7,Promising / Potential
+5967,60,9,70,2,2,2,222,6,Promising / Potential
+1183,11,4,22,4,1,1,411,6,Promising / Potential
+6856,75,9,65,1,2,1,121,4,At Risk
+4530,36,23,1930,3,4,4,344,11,Champions
+1553,71,23,2283,2,4,4,244,10,Champions
+4682,88,13,310,1,2,2,122,5,At Risk
+8204,93,18,1319,1,3,4,134,8,Loyal Customers
+5221,93,26,879,1,4,3,143,8,Loyal Customers
+1232,54,17,1244,2,3,4,234,9,Loyal Customers
+1927,41,17,690,3,3,3,333,9,Loyal Customers
+5788,46,12,209,3,2,2,322,7,Promising / Potential
+6652,28,17,1134,3,3,4,334,10,Champions
+6246,40,23,1507,3,4,4,344,11,Champions
+5975,82,6,57,1,1,1,111,3,Lost / Inactive
+6875,38,17,529,3,3,3,333,9,Loyal Customers
+4399,3,16,1091,4,3,4,434,11,Champions
+4042,87,11,180,1,2,2,122,5,At Risk
+2157,49,10,77,3,2,2,322,7,Promising / Potential
+10133,16,25,2349,4,4,4,444,12,Champions
+2525,65,18,534,2,3,3,233,8,Loyal Customers
+8233,9,21,556,4,4,3,443,11,Champions
+9483,24,25,637,4,4,3,443,11,Champions
+2945,25,5,46,3,1,1,311,5,At Risk
+10403,43,9,44,3,2,1,321,6,Promising / Potential
+5074,10,5,47,4,1,1,411,6,Promising / Potential
+10524,29,22,795,3,4,3,343,10,Champions
+4690,45,21,586,3,4,3,343,10,Champions
+7521,57,20,1574,2,3,4,234,9,Loyal Customers
+7196,20,4,13,4,1,1,411,6,Promising / Potential
+4406,29,25,1471,3,4,4,344,11,Champions
+9672,82,8,65,1,2,1,121,4,At Risk
+4864,68,12,175,2,2,2,222,6,Promising / Potential
+4706,65,5,40,2,1,1,211,4,At Risk
+4070,99,18,1078,1,3,4,134,8,Loyal Customers
+25,9,21,1115,4,4,4,444,12,Champions
+3697,20,9,134,4,2,2,422,8,Loyal Customers
+217,78,23,1540,1,4,4,144,9,Loyal Customers
+4220,26,7,87,3,1,2,312,6,Promising / Potential
+5286,68,10,217,2,2,2,222,6,Promising / Potential
+9559,79,27,1034,1,4,3,143,8,Loyal Customers
+2849,25,31,1180,3,4,4,344,11,Champions
+7787,83,23,819,1,4,3,143,8,Loyal Customers
+3102,32,5,32,3,1,1,311,5,At Risk
+5868,49,6,46,3,1,1,311,5,At Risk
+8370,50,18,1159,2,3,4,234,9,Loyal Customers
+9988,84,25,860,1,4,3,143,8,Loyal Customers
+2939,96,15,1631,1,2,4,124,7,Promising / Potential
+5529,56,22,444,2,4,3,243,9,Loyal Customers
+9743,85,29,1910,1,4,4,144,9,Loyal Customers
+5763,63,18,380,2,3,2,232,7,Promising / Potential
+3478,17,30,736,4,4,3,443,11,Champions
+7494,11,15,269,4,2,2,422,8,Loyal Customers
+1763,62,29,2524,2,4,4,244,10,Champions
+7250,48,25,612,3,4,3,343,10,Champions
+2005,86,8,75,1,2,2,122,5,At Risk
+10770,73,26,1045,2,4,3,243,9,Loyal Customers
+6885,36,6,55,3,1,1,311,5,At Risk
+2072,34,21,1064,3,4,4,344,11,Champions
+9463,16,25,1443,4,4,4,444,12,Champions
+6318,48,30,1366,3,4,4,344,11,Champions
+4093,61,19,436,2,3,3,233,8,Loyal Customers
+5751,54,5,38,2,1,1,211,4,At Risk
+3340,56,20,436,2,3,3,233,8,Loyal Customers
+3594,74,32,747,2,4,3,243,9,Loyal Customers
+3584,35,22,1396,3,4,4,344,11,Champions
+3643,65,14,928,2,2,3,223,7,Promising / Potential
+851,48,26,642,3,4,3,343,10,Champions
+7706,88,30,1048,1,4,4,144,9,Loyal Customers
+3967,19,24,943,4,4,3,443,11,Champions
+10128,21,27,907,4,4,3,443,11,Champions
+486,27,18,1198,3,3,4,334,10,Champions
+9,86,11,120,1,2,2,122,5,At Risk
+9451,92,26,1658,1,4,4,144,9,Loyal Customers
+9264,1,22,1638,4,4,4,444,12,Champions
+3865,14,7,73,4,1,2,412,7,Promising / Potential
+2853,74,12,275,2,2,2,222,6,Promising / Potential
+1490,84,26,854,1,4,3,143,8,Loyal Customers
+6310,4,7,78,4,1,2,412,7,Promising / Potential
+10380,50,7,106,2,1,2,212,5,At Risk
+3887,2,7,106,4,1,2,412,7,Promising / Potential
+4278,73,19,1923,2,3,4,234,9,Loyal Customers
+8643,21,22,1662,4,4,4,444,12,Champions
+1998,82,7,84,1,1,2,112,4,At Risk
+10795,14,7,48,4,1,1,411,6,Promising / Potential
+11110,56,0,5,2,1,1,211,4,At Risk
+2408,20,32,733,4,4,3,443,11,Champions
+202,54,17,1234,2,3,4,234,9,Loyal Customers
+7998,77,9,112,1,2,2,122,5,At Risk
+830,5,15,1658,4,2,4,424,10,Champions
+3536,65,7,55,2,1,1,211,4,At Risk
+6050,33,26,1513,3,4,4,344,11,Champions
+125,65,17,271,2,3,2,232,7,Promising / Potential
+3463,41,27,904,3,4,3,343,10,Champions
+2804,86,11,120,1,2,2,122,5,At Risk
+3745,92,8,103,1,2,2,122,5,At Risk
+9771,97,17,269,1,3,2,132,6,Promising / Potential
+451,91,5,22,1,1,1,111,3,Lost / Inactive
+10530,0,16,1156,4,3,4,434,11,Champions
+1079,59,19,1086,2,3,4,234,9,Loyal Customers
+8920,4,28,1128,4,4,4,444,12,Champions
+6678,5,9,72,4,2,2,422,8,Loyal Customers
+3852,48,27,964,3,4,3,343,10,Champions
+528,99,20,1383,1,3,4,134,8,Loyal Customers
+73,81,4,18,1,1,1,111,3,Lost / Inactive
+5589,95,24,793,1,4,3,143,8,Loyal Customers
+10212,43,7,100,3,1,2,312,6,Promising / Potential
+6365,5,6,80,4,1,2,412,7,Promising / Potential
+5636,50,8,167,2,2,2,222,6,Promising / Potential
+591,76,20,677,1,3,3,133,7,Promising / Potential
+2217,46,4,23,3,1,1,311,5,At Risk
+2544,68,7,92,2,1,2,212,5,At Risk
+7725,33,16,641,3,3,3,333,9,Loyal Customers
+8091,50,17,1106,2,3,4,234,9,Loyal Customers
+7321,85,14,1033,1,2,3,123,6,Promising / Potential
+5462,63,32,1174,2,4,4,244,10,Champions
+7791,89,6,25,1,1,1,111,3,Lost / Inactive
+955,81,17,240,1,3,2,132,6,Promising / Potential
+4037,77,4,20,1,1,1,111,3,Lost / Inactive
+6642,50,11,102,2,2,2,222,6,Promising / Potential
+2793,10,26,1034,4,4,3,443,11,Champions
+5424,30,9,156,3,2,2,322,7,Promising / Potential
+879,66,21,458,2,4,3,243,9,Loyal Customers
+9530,16,4,17,4,1,1,411,6,Promising / Potential
+4828,12,21,792,4,4,3,443,11,Champions
+10699,30,8,92,3,2,2,322,7,Promising / Potential
+1497,8,16,407,4,3,3,433,10,Champions
+7476,93,23,1269,1,4,4,144,9,Loyal Customers
+4390,14,23,841,4,4,3,443,11,Champions
+10478,53,23,633,2,4,3,243,9,Loyal Customers
+1081,26,25,1019,3,4,3,343,10,Champions
+4261,23,26,1315,4,4,4,444,12,Champions
+9916,92,8,54,1,2,1,121,4,At Risk
+5350,29,18,2525,3,3,4,334,10,Champions
+8135,41,5,52,3,1,1,311,5,At Risk
+8685,56,20,436,2,3,3,233,8,Loyal Customers
+4967,19,15,268,4,2,2,422,8,Loyal Customers
+2130,4,8,147,4,2,2,422,8,Loyal Customers
+9298,89,18,1798,1,3,4,134,8,Loyal Customers
+8175,71,8,137,2,2,2,222,6,Promising / Potential
+6257,81,17,507,1,3,3,133,7,Promising / Potential
+3790,31,4,15,3,1,1,311,5,At Risk
+9952,53,17,1105,2,3,4,234,9,Loyal Customers
+3503,78,15,974,1,2,3,123,6,Promising / Potential
+5223,80,8,66,1,2,1,121,4,At Risk
+4608,18,27,778,4,4,3,443,11,Champions
+1626,37,6,49,3,1,1,311,5,At Risk
+4764,52,12,169,2,2,2,222,6,Promising / Potential
+2471,39,12,299,3,2,2,322,7,Promising / Potential
+5892,11,17,221,4,3,2,432,9,Loyal Customers
+2612,33,25,1682,3,4,4,344,11,Champions
+4971,22,10,155,4,2,2,422,8,Loyal Customers
+5185,83,13,892,1,2,3,123,6,Promising / Potential
+10069,43,5,58,3,1,1,311,5,At Risk
+2262,74,15,311,2,2,2,222,6,Promising / Potential
+1131,54,7,95,2,1,2,212,5,At Risk
+1041,3,19,424,4,3,3,433,10,Champions
+24,96,12,47,1,2,1,121,4,At Risk
+3409,68,15,339,2,2,2,222,6,Promising / Potential
+7022,2,21,1410,4,4,4,444,12,Champions
+7943,40,6,35,3,1,1,311,5,At Risk
+5272,64,20,562,2,3,3,233,8,Loyal Customers
+5453,26,24,2352,3,4,4,344,11,Champions
+2565,69,20,1334,2,3,4,234,9,Loyal Customers
+800,57,6,32,2,1,1,211,4,At Risk
+11092,78,7,41,1,1,1,111,3,Lost / Inactive
+5062,71,5,39,2,1,1,211,4,At Risk
+8969,59,25,1141,2,4,4,244,10,Champions
+4656,28,24,710,3,4,3,343,10,Champions
+4480,61,19,401,2,3,3,233,8,Loyal Customers
+9971,22,17,506,4,3,3,433,10,Champions
+6729,95,21,1538,1,4,4,144,9,Loyal Customers
+1773,38,6,57,3,1,1,311,5,At Risk
+9242,19,19,1722,4,3,4,434,11,Champions
+1764,92,15,270,1,2,2,122,5,At Risk
+6215,24,6,31,4,1,1,411,6,Promising / Potential
+10099,21,24,882,4,4,3,443,11,Champions
+5423,35,4,16,3,1,1,311,5,At Risk
+940,9,14,311,4,2,2,422,8,Loyal Customers
+3011,23,11,227,4,2,2,422,8,Loyal Customers
+3298,92,31,1152,1,4,4,144,9,Loyal Customers
+8286,55,8,122,2,2,2,222,6,Promising / Potential
+9668,14,9,77,4,2,2,422,8,Loyal Customers
+5120,78,19,1289,1,3,4,134,8,Loyal Customers
+6097,64,24,561,2,4,3,243,9,Loyal Customers
+7019,49,13,211,3,2,2,322,7,Promising / Potential
+7408,8,12,233,4,2,2,422,8,Loyal Customers
+8041,35,21,1092,3,4,4,344,11,Champions
+252,11,17,601,4,3,3,433,10,Champions
+9986,8,10,54,4,2,1,421,7,Promising / Potential
+3276,53,7,78,2,1,2,212,5,At Risk
+3859,36,26,1095,3,4,4,344,11,Champions
+3570,64,13,244,2,2,2,222,6,Promising / Potential
+3783,43,9,116,3,2,2,322,7,Promising / Potential
+10207,40,4,15,3,1,1,311,5,At Risk
+10906,52,16,425,2,3,3,233,8,Loyal Customers
+3427,11,26,734,4,4,3,443,11,Champions
+5209,21,19,638,4,3,3,433,10,Champions
+10711,23,22,894,4,4,3,443,11,Champions
+10785,17,7,41,4,1,1,411,6,Promising / Potential
+2814,6,5,31,4,1,1,411,6,Promising / Potential
+6866,56,5,34,2,1,1,211,4,At Risk
+1665,71,18,1750,2,3,4,234,9,Loyal Customers
+6575,51,25,612,2,4,3,243,9,Loyal Customers
+3829,94,5,29,1,1,1,111,3,Lost / Inactive
+3091,27,21,823,3,4,3,343,10,Champions
+10141,1,4,20,4,1,1,411,6,Promising / Potential
+5177,56,16,396,2,3,2,232,7,Promising / Potential
+7005,71,21,813,2,4,3,243,9,Loyal Customers
+6409,18,20,1179,4,3,4,434,11,Champions
+7485,48,10,138,3,2,2,322,7,Promising / Potential
+8079,86,9,55,1,2,1,121,4,At Risk
+8395,48,22,1511,3,4,4,344,11,Champions
+10352,2,9,117,4,2,2,422,8,Loyal Customers
+4931,13,28,1730,4,4,4,444,12,Champions
+13,57,6,32,2,1,1,211,4,At Risk
+1834,77,6,67,1,1,1,111,3,Lost / Inactive
+2285,0,15,335,4,2,2,422,8,Loyal Customers
+2295,57,22,825,2,4,3,243,9,Loyal Customers
+1378,24,23,694,4,4,3,443,11,Champions
+2781,55,17,1792,2,3,4,234,9,Loyal Customers
+1165,62,24,496,2,4,3,243,9,Loyal Customers
+1404,89,13,231,1,2,2,122,5,At Risk
+6457,77,24,902,1,4,3,143,8,Loyal Customers
+2639,45,9,68,3,2,1,321,6,Promising / Potential
+8299,46,6,71,3,1,2,312,6,Promising / Potential
+6437,80,6,76,1,1,2,112,4,At Risk
+6912,60,22,772,2,4,3,243,9,Loyal Customers
+7327,71,9,47,2,2,1,221,5,At Risk
+5299,43,25,1586,3,4,4,344,11,Champions
+4127,97,34,1529,1,4,4,144,9,Loyal Customers
+8143,49,13,265,3,2,2,322,7,Promising / Potential
+1964,66,18,1603,2,3,4,234,9,Loyal Customers
+3690,20,22,2091,4,4,4,444,12,Champions
+3433,54,21,981,2,4,3,243,9,Loyal Customers
+3389,61,34,1533,2,4,4,244,10,Champions
+4712,18,7,82,4,1,2,412,7,Promising / Potential
+1170,45,14,244,3,2,2,322,7,Promising / Potential
+6347,26,5,36,3,1,1,311,5,At Risk
+4065,0,16,404,4,3,3,433,10,Champions
+8230,28,6,71,3,1,2,312,6,Promising / Potential
+1215,49,23,1572,3,4,4,344,11,Champions
+5939,84,11,122,1,2,2,122,5,At Risk
+2156,38,10,41,3,2,1,321,6,Promising / Potential
+7788,53,4,10,2,1,1,211,4,At Risk
+10323,88,13,304,1,2,2,122,5,At Risk
+7947,99,5,37,1,1,1,111,3,Lost / Inactive
+1891,12,16,1754,4,3,4,434,11,Champions
+2570,35,25,815,3,4,3,343,10,Champions
+9256,5,27,1001,4,4,3,443,11,Champions
+295,77,22,1157,1,4,4,144,9,Loyal Customers
+7397,45,21,688,3,4,3,343,10,Champions
+6349,71,19,1319,2,3,4,234,9,Loyal Customers
+10790,40,4,21,3,1,1,311,5,At Risk
+10398,82,4,31,1,1,1,111,3,Lost / Inactive
+2431,70,6,67,2,1,1,211,4,At Risk
+550,87,21,708,1,4,3,143,8,Loyal Customers
+1890,95,4,25,1,1,1,111,3,Lost / Inactive
+10742,72,11,746,2,2,3,223,7,Promising / Potential
+10356,5,5,32,4,1,1,411,6,Promising / Potential
+4676,86,25,1695,1,4,4,144,9,Loyal Customers
+8852,80,28,1080,1,4,4,144,9,Loyal Customers
+3565,62,9,72,2,2,2,222,6,Promising / Potential
+5294,49,10,57,3,2,1,321,6,Promising / Potential
+1958,85,25,660,1,4,3,143,8,Loyal Customers
+7349,7,11,103,4,2,2,422,8,Loyal Customers
+8799,6,11,153,4,2,2,422,8,Loyal Customers
+1351,25,32,1220,3,4,4,344,11,Champions
+1045,55,13,279,2,2,2,222,6,Promising / Potential
+7732,81,20,745,1,3,3,133,7,Promising / Potential
+8070,98,12,264,1,2,2,122,5,At Risk
+477,31,22,2157,3,4,4,344,11,Champions
+7832,30,23,1526,3,4,4,344,11,Champions
+2202,98,6,69,1,1,1,111,3,Lost / Inactive
+7396,92,26,1597,1,4,4,144,9,Loyal Customers
+4055,41,8,64,3,2,1,321,6,Promising / Potential
+10340,68,18,497,2,3,3,233,8,Loyal Customers
+10091,78,17,1067,1,3,4,134,8,Loyal Customers
+7629,46,7,31,3,1,1,311,5,At Risk
+10640,71,14,211,2,2,2,222,6,Promising / Potential
+3498,6,25,877,4,4,3,443,11,Champions
+6742,82,4,11,1,1,1,111,3,Lost / Inactive
+1172,71,25,2034,2,4,4,244,10,Champions
+569,32,19,1991,3,3,4,334,10,Champions
+4686,28,24,1686,3,4,4,344,11,Champions
+1381,20,17,324,4,3,2,432,9,Loyal Customers
+2634,10,9,69,4,2,1,421,7,Promising / Potential
+10905,7,16,252,4,3,2,432,9,Loyal Customers
+1744,67,5,54,2,1,1,211,4,At Risk
+1000,48,27,964,3,4,3,343,10,Champions
+3828,61,28,1327,2,4,4,244,10,Champions
+8605,36,7,68,3,1,1,311,5,At Risk
+10304,77,5,60,1,1,1,111,3,Lost / Inactive
+4351,90,5,55,1,1,1,111,3,Lost / Inactive
+10129,35,21,1456,3,4,4,344,11,Champions
+2499,38,18,563,3,3,3,333,9,Loyal Customers
+10092,46,26,1504,3,4,4,344,11,Champions
+7500,33,19,564,3,3,3,333,9,Loyal Customers
+5796,70,23,1125,2,4,4,244,10,Champions
+10556,51,17,358,2,3,2,232,7,Promising / Potential
+1064,18,5,42,4,1,1,411,6,Promising / Potential
+48,97,10,184,1,2,2,122,5,At Risk
+7610,32,19,460,3,3,3,333,9,Loyal Customers
+263,9,8,145,4,2,2,422,8,Loyal Customers
+10814,6,25,1376,4,4,4,444,12,Champions
+9710,80,23,792,1,4,3,143,8,Loyal Customers
+9292,74,23,1382,2,4,4,244,10,Champions
+10250,49,4,28,3,1,1,311,5,At Risk
+7881,21,24,1033,4,4,3,443,11,Champions
+5847,95,23,882,1,4,3,143,8,Loyal Customers
+737,56,15,2231,2,2,4,224,8,Loyal Customers
+3571,48,19,1101,3,3,4,334,10,Champions
+7807,26,16,369,3,3,2,332,8,Loyal Customers
+3878,3,5,48,4,1,1,411,6,Promising / Potential
+5092,39,19,467,3,3,3,333,9,Loyal Customers
+2154,33,8,44,3,2,1,321,6,Promising / Potential
+5394,42,10,38,3,2,1,321,6,Promising / Potential
+3798,80,9,81,1,2,2,122,5,At Risk
+3524,9,10,167,4,2,2,422,8,Loyal Customers
+5247,52,7,45,2,1,1,211,4,At Risk
+5883,78,21,664,1,4,3,143,8,Loyal Customers
+2118,68,20,622,2,3,3,233,8,Loyal Customers
+8812,45,7,48,3,1,1,311,5,At Risk
+6616,47,16,461,3,3,3,333,9,Loyal Customers
+2797,34,26,1073,3,4,4,344,11,Champions
+4328,81,8,55,1,2,1,121,4,At Risk
+9167,72,26,976,2,4,3,243,9,Loyal Customers
+10560,23,5,20,4,1,1,411,6,Promising / Potential
+2631,29,17,1149,3,3,4,334,10,Champions
+8312,80,6,43,1,1,1,111,3,Lost / Inactive
+5534,30,10,224,3,2,2,322,7,Promising / Potential
+5093,15,9,101,4,2,2,422,8,Loyal Customers
+7592,86,10,209,1,2,2,122,5,At Risk
+8895,68,21,968,2,4,3,243,9,Loyal Customers
+8584,54,17,1165,2,3,4,234,9,Loyal Customers
+2694,44,5,24,3,1,1,311,5,At Risk
+8910,7,16,252,4,3,2,432,9,Loyal Customers
+7433,87,12,165,1,2,2,122,5,At Risk
+164,59,13,269,2,2,2,222,6,Promising / Potential
+10477,16,7,102,4,1,2,412,7,Promising / Potential
+2681,1,19,461,4,3,3,433,10,Champions
+5150,64,7,47,2,1,1,211,4,At Risk
+5283,72,10,144,2,2,2,222,6,Promising / Potential
+9645,98,24,1338,1,4,4,144,9,Loyal Customers
+10678,91,25,917,1,4,3,143,8,Loyal Customers
+7261,8,17,318,4,3,2,432,9,Loyal Customers
+9648,20,14,253,4,2,2,422,8,Loyal Customers
+2870,6,20,502,4,3,3,433,10,Champions
+8008,54,7,119,2,1,2,212,5,At Risk
+1513,72,29,1250,2,4,4,244,10,Champions
+6173,46,24,969,3,4,3,343,10,Champions
+1419,11,9,76,4,2,2,422,8,Loyal Customers
+9150,21,7,62,4,1,1,411,6,Promising / Potential
+7960,89,26,1382,1,4,4,144,9,Loyal Customers
+1250,82,7,84,1,1,2,112,4,At Risk
+9905,69,14,255,2,2,2,222,6,Promising / Potential
+10691,55,5,43,2,1,1,211,4,At Risk
+7002,13,14,398,4,2,3,423,9,Loyal Customers
+2952,80,8,76,1,2,2,122,5,At Risk
+8439,97,15,902,1,3,3,133,7,Promising / Potential
+762,27,21,823,3,4,3,343,10,Champions
+2831,99,26,1179,1,4,4,144,9,Loyal Customers
+6977,87,29,1921,1,4,4,144,9,Loyal Customers
+6289,85,10,185,1,2,2,122,5,At Risk
+4168,30,23,433,3,4,3,343,10,Champions
+8397,82,6,34,1,1,1,111,3,Lost / Inactive
+9284,21,27,907,4,4,3,443,11,Champions
+6237,92,25,416,1,4,3,143,8,Loyal Customers
+3130,95,10,44,1,2,1,121,4,At Risk
+1619,2,17,1588,4,3,4,434,11,Champions
+1990,74,17,1797,2,3,4,234,9,Loyal Customers
+5513,49,6,40,3,1,1,311,5,At Risk
+269,71,21,1143,2,4,4,244,10,Champions
+8093,72,14,914,2,2,3,223,7,Promising / Potential
+10513,68,12,1502,2,2,4,224,8,Loyal Customers
+10177,4,20,1338,4,3,4,434,11,Champions
+2549,80,5,27,1,1,1,111,3,Lost / Inactive
+5782,15,22,763,4,4,3,443,11,Champions
+10057,70,22,1331,2,4,4,244,10,Champions
+10307,91,19,525,1,3,3,133,7,Promising / Potential
+8566,10,4,9,4,1,1,411,6,Promising / Potential
+2415,99,16,953,1,3,3,133,7,Promising / Potential
+5684,25,7,68,3,1,1,311,5,At Risk
+8334,34,10,131,3,2,2,322,7,Promising / Potential
+9166,57,23,882,2,4,3,243,9,Loyal Customers
+1440,84,25,1149,1,4,4,144,9,Loyal Customers
+78,51,5,37,2,1,1,211,4,At Risk
+5441,97,15,388,1,3,2,132,6,Promising / Potential
+5302,13,16,1428,4,3,4,434,11,Champions
+4687,92,24,1633,1,4,4,144,9,Loyal Customers
+1087,30,10,173,3,2,2,322,7,Promising / Potential
+6859,30,9,99,3,2,2,322,7,Promising / Potential
+9860,11,12,215,4,2,2,422,8,Loyal Customers
+7129,72,31,929,2,4,3,243,9,Loyal Customers
+5866,39,12,219,3,2,2,322,7,Promising / Potential
+10521,0,12,174,4,2,2,422,8,Loyal Customers
+7393,15,9,92,4,2,2,422,8,Loyal Customers
+7849,12,25,1052,4,4,4,444,12,Champions
+332,56,14,275,2,2,2,222,6,Promising / Potential
+9847,39,16,587,3,3,3,333,9,Loyal Customers
+531,55,33,1662,2,4,4,244,10,Champions
+9576,60,11,159,2,2,2,222,6,Promising / Potential
+6906,73,18,1024,2,3,3,233,8,Loyal Customers
+7419,90,7,35,1,1,1,111,3,Lost / Inactive
+3170,86,15,1042,1,3,3,133,7,Promising / Potential
+8527,37,19,395,3,3,2,332,8,Loyal Customers
+7872,7,23,557,4,4,3,443,11,Champions
+9931,29,15,9,3,3,1,331,7,Promising / Potential
+10595,19,6,69,4,1,1,411,6,Promising / Potential
+4609,14,18,486,4,3,3,433,10,Champions
+5010,72,6,34,2,1,1,211,4,At Risk
+4427,56,28,1365,2,4,4,244,10,Champions
+11148,85,4,13,1,1,1,111,3,Lost / Inactive
+1168,62,21,1401,2,4,4,244,10,Champions
+9595,1,14,1574,4,2,4,424,10,Champions
+10163,28,20,1323,3,3,4,334,10,Champions
+2886,70,32,1217,2,4,4,244,10,Champions
+6710,84,7,103,1,1,2,112,4,At Risk
+5316,89,7,84,1,1,2,112,4,At Risk
+9029,73,23,1536,2,4,4,244,10,Champions
+521,42,18,581,3,3,3,333,9,Loyal Customers
+1459,16,14,928,4,2,3,423,9,Loyal Customers
+10241,16,4,14,4,1,1,411,6,Promising / Potential
+1630,56,15,424,2,3,3,233,8,Loyal Customers
+3254,65,14,960,2,2,3,223,7,Promising / Potential
+9064,10,20,1555,4,3,4,434,11,Champions
+3678,13,29,656,4,4,3,443,11,Champions
+4227,78,9,55,1,2,1,121,4,At Risk
+9467,51,5,20,2,1,1,211,4,At Risk
+8486,27,17,367,3,3,2,332,8,Loyal Customers
+2186,30,22,2257,3,4,4,344,11,Champions
+3286,71,7,42,2,1,1,211,4,At Risk
+8602,97,26,1049,1,4,4,144,9,Loyal Customers
+3722,83,7,48,1,1,1,111,3,Lost / Inactive
+6715,3,25,685,4,4,3,443,11,Champions
+4796,71,5,39,2,1,1,211,4,At Risk
+9612,3,5,43,4,1,1,411,6,Promising / Potential
+3766,15,21,835,4,4,3,443,11,Champions
+1399,52,20,1515,2,3,4,234,9,Loyal Customers
+1570,8,26,1039,4,4,3,443,11,Champions
+3426,89,26,1596,1,4,4,144,9,Loyal Customers
+3074,66,18,1828,2,3,4,234,9,Loyal Customers
+8341,22,6,34,4,1,1,411,6,Promising / Potential
+5180,56,10,149,2,2,2,222,6,Promising / Potential
+6461,74,23,946,2,4,3,243,9,Loyal Customers
+7679,48,6,28,3,1,1,311,5,At Risk
+10702,67,17,450,2,3,3,233,8,Loyal Customers
+7505,24,5,46,4,1,1,411,6,Promising / Potential
+5113,67,16,1702,2,3,4,234,9,Loyal Customers
+10858,38,25,820,3,4,3,343,10,Champions
+2961,86,15,382,1,3,2,132,6,Promising / Potential
+2747,90,20,2126,1,3,4,134,8,Loyal Customers
+3010,87,20,2069,1,3,4,134,8,Loyal Customers
+5790,62,7,72,2,1,2,212,5,At Risk
+6892,23,28,732,4,4,3,443,11,Champions
+1743,99,11,801,1,2,3,123,6,Promising / Potential
+3578,29,12,236,3,2,2,322,7,Promising / Potential
+8462,52,5,80,2,1,2,212,5,At Risk
+5558,90,15,1685,1,3,4,134,8,Loyal Customers
+4619,9,27,277,4,4,2,442,10,Champions
+8780,71,18,507,2,3,3,233,8,Loyal Customers
+10789,13,7,68,4,1,1,411,6,Promising / Potential
+10779,16,5,49,4,1,1,411,6,Promising / Potential
+5896,94,15,397,1,3,3,133,7,Promising / Potential
+2337,77,9,39,1,2,1,121,4,At Risk
+10951,20,14,306,4,2,2,422,8,Loyal Customers
+544,51,14,976,2,2,3,223,7,Promising / Potential
+17,81,28,1028,1,4,3,143,8,Loyal Customers
+10680,71,7,70,2,1,2,212,5,At Risk
+3265,36,5,46,3,1,1,311,5,At Risk
+5623,95,5,51,1,1,1,111,3,Lost / Inactive
+5832,32,21,1263,3,4,4,344,11,Champions
+5544,32,22,1490,3,4,4,344,11,Champions
+6417,85,24,1564,1,4,4,144,9,Loyal Customers
+5831,93,18,1815,1,3,4,134,8,Loyal Customers
+7101,24,31,1198,4,4,4,444,12,Champions
+10176,44,23,416,3,4,3,343,10,Champions
+2326,15,6,85,4,1,2,412,7,Promising / Potential
+4385,82,8,47,1,2,1,121,4,At Risk
+2929,27,8,137,3,2,2,322,7,Promising / Potential
+10686,72,4,21,2,1,1,211,4,At Risk
+2546,7,6,70,4,1,2,412,7,Promising / Potential
+3283,57,22,909,2,4,3,243,9,Loyal Customers
+3138,84,22,1676,1,4,4,144,9,Loyal Customers
+4994,53,26,1735,2,4,4,244,10,Champions
+7966,48,30,1191,3,4,4,344,11,Champions
+3112,2,5,24,4,1,1,411,6,Promising / Potential
+10872,65,20,1182,2,3,4,234,9,Loyal Customers
+2181,45,14,1280,3,2,4,324,9,Loyal Customers
+1867,42,19,1336,3,3,4,334,10,Champions
+1518,29,24,749,3,4,3,343,10,Champions
+5734,83,7,91,1,1,2,112,4,At Risk
+2878,93,15,414,1,3,3,133,7,Promising / Potential
+1458,40,9,44,3,2,1,321,6,Promising / Potential
+7007,47,8,63,3,2,1,321,6,Promising / Potential
+6200,50,23,901,2,4,3,243,9,Loyal Customers
+1403,40,6,38,3,1,1,311,5,At Risk
+4827,3,20,455,4,3,3,433,10,Champions
+6250,62,24,775,2,4,3,243,9,Loyal Customers
+9291,25,4,15,3,1,1,311,5,At Risk
+2478,48,6,38,3,1,1,311,5,At Risk
+1139,56,22,1512,2,4,4,244,10,Champions
+5138,68,5,43,2,1,1,211,4,At Risk
+5393,64,5,42,2,1,1,211,4,At Risk
+10413,67,23,1089,2,4,4,244,10,Champions
+5015,94,9,162,1,2,2,122,5,At Risk
+10868,82,19,1272,1,3,4,134,8,Loyal Customers
+10676,3,20,1173,4,3,4,434,11,Champions
+2495,24,22,816,4,4,3,443,11,Champions
+7842,54,9,74,2,2,2,222,6,Promising / Potential
+9955,20,9,134,4,2,2,422,8,Loyal Customers
+6663,96,9,157,1,2,2,122,5,At Risk
+2162,19,18,561,4,3,3,433,10,Champions
+3434,60,19,1336,2,3,4,234,9,Loyal Customers
+7919,2,23,2092,4,4,4,444,12,Champions
+5626,13,16,463,4,3,3,433,10,Champions
+6428,37,17,1130,3,3,4,334,10,Champions
+8514,59,5,20,2,1,1,211,4,At Risk
+10448,55,18,377,2,3,2,232,7,Promising / Potential
+2109,60,28,1544,2,4,4,244,10,Champions
+7530,48,10,138,3,2,2,322,7,Promising / Potential
+8925,38,26,1012,3,4,3,343,10,Champions
+3009,8,15,1766,4,3,4,434,11,Champions
+6355,19,9,45,4,2,1,421,7,Promising / Potential
+3517,32,10,161,3,2,2,322,7,Promising / Potential
+1158,27,8,144,3,2,2,322,7,Promising / Potential
+6203,58,26,1734,2,4,4,244,10,Champions
+7165,59,22,823,2,4,3,243,9,Loyal Customers
+3595,29,28,1138,3,4,4,344,11,Champions
+8537,60,21,1429,2,4,4,244,10,Champions
+4331,41,21,1371,3,4,4,344,11,Champions
+6281,27,16,982,3,3,3,333,9,Loyal Customers
+4338,28,5,44,3,1,1,311,5,At Risk
+2452,8,17,318,4,3,2,432,9,Loyal Customers
+9507,18,16,434,4,3,3,433,10,Champions
+8360,76,12,198,1,2,2,122,5,At Risk
+10311,0,25,359,4,4,2,442,10,Champions
+5117,32,18,576,3,3,3,333,9,Loyal Customers
+4867,2,11,88,4,2,2,422,8,Loyal Customers
+9289,16,6,63,4,1,1,411,6,Promising / Potential
+10913,56,4,27,2,1,1,211,4,At Risk
+3032,97,11,193,1,2,2,122,5,At Risk
+8524,15,9,101,4,2,2,422,8,Loyal Customers
+3334,35,21,2211,3,4,4,344,11,Champions
+4470,3,8,140,4,2,2,422,8,Loyal Customers
+1406,49,22,415,3,4,3,343,10,Champions
+8619,4,4,22,4,1,1,411,6,Promising / Potential
+10821,45,16,263,3,3,2,332,8,Loyal Customers
+4552,37,12,393,3,2,2,322,7,Promising / Potential
+898,39,10,147,3,2,2,322,7,Promising / Potential
+9797,38,16,443,3,3,3,333,9,Loyal Customers
+10949,8,19,1958,4,3,4,434,11,Champions
+8212,89,10,174,1,2,2,122,5,At Risk
+6248,47,27,2217,3,4,4,344,11,Champions
+10164,75,16,1691,1,3,4,134,8,Loyal Customers
+4547,86,6,25,1,1,1,111,3,Lost / Inactive
+6815,4,21,809,4,4,3,443,11,Champions
+4122,73,16,895,2,3,3,233,8,Loyal Customers
+10841,46,18,484,3,3,3,333,9,Loyal Customers
+5370,38,18,413,3,3,3,333,9,Loyal Customers
+176,73,12,331,2,2,2,222,6,Promising / Potential
+4860,66,5,25,2,1,1,211,4,At Risk
+10757,36,4,13,3,1,1,311,5,At Risk
+4023,29,10,115,3,2,2,322,7,Promising / Potential
+6679,29,4,16,3,1,1,311,5,At Risk
+9923,6,9,92,4,2,2,422,8,Loyal Customers
+7181,97,7,52,1,1,1,111,3,Lost / Inactive
+3599,61,23,1464,2,4,4,244,10,Champions
+405,68,17,441,2,3,3,233,8,Loyal Customers
+6870,73,12,283,2,2,2,222,6,Promising / Potential
+832,90,23,747,1,4,3,143,8,Loyal Customers
+2002,81,17,1870,1,3,4,134,8,Loyal Customers
+3657,1,11,165,4,2,2,422,8,Loyal Customers
+500,79,24,1941,1,4,4,144,9,Loyal Customers
+1951,92,27,839,1,4,3,143,8,Loyal Customers
+3262,31,25,1655,3,4,4,344,11,Champions
+4102,46,4,23,3,1,1,311,5,At Risk
+7042,14,6,66,4,1,1,411,6,Promising / Potential
+10598,89,8,37,1,2,1,121,4,At Risk
+255,31,6,21,3,1,1,311,5,At Risk
+2375,75,4,22,1,1,1,111,3,Lost / Inactive
+9829,42,9,78,3,2,2,322,7,Promising / Potential
+6214,53,6,79,2,1,2,212,5,At Risk
+4954,53,17,265,2,3,2,232,7,Promising / Potential
+7861,23,19,1175,4,3,4,434,11,Champions
+4837,57,28,1305,2,4,4,244,10,Champions
+9423,49,8,46,3,2,1,321,6,Promising / Potential
+4198,6,4,25,4,1,1,411,6,Promising / Potential
+153,29,5,46,3,1,1,311,5,At Risk
+9323,5,26,874,4,4,3,443,11,Champions
+10001,98,10,100,1,2,2,122,5,At Risk
+3945,80,25,930,1,4,3,143,8,Loyal Customers
+3799,4,23,868,4,4,3,443,11,Champions
+8625,70,9,45,2,2,1,221,5,At Risk
+3491,32,29,1260,3,4,4,344,11,Champions
+983,82,12,414,1,2,3,123,6,Promising / Potential
+9119,27,15,392,3,3,2,332,8,Loyal Customers
+4786,94,29,1109,1,4,4,144,9,Loyal Customers
+5872,23,22,639,4,4,3,443,11,Champions
+6568,97,6,79,1,1,2,112,4,At Risk
+5628,25,24,1665,3,4,4,344,11,Champions
+5631,92,18,692,1,3,3,133,7,Promising / Potential
+4974,98,29,1392,1,4,4,144,9,Loyal Customers
+8416,19,7,44,4,1,1,411,6,Promising / Potential
+5454,80,6,50,1,1,1,111,3,Lost / Inactive
+4095,80,21,467,1,4,3,143,8,Loyal Customers
+5474,79,12,223,1,2,2,122,5,At Risk
+4268,50,9,158,2,2,2,222,6,Promising / Potential
+10701,60,28,1211,2,4,4,244,10,Champions
+3507,44,14,1575,3,2,4,324,9,Loyal Customers
+2079,0,22,1208,4,4,4,444,12,Champions
+626,28,5,43,3,1,1,311,5,At Risk
+4426,35,21,527,3,4,3,343,10,Champions
+2591,49,15,932,3,3,3,333,9,Loyal Customers
+10509,46,8,71,3,2,2,322,7,Promising / Potential
+6382,97,5,54,1,1,1,111,3,Lost / Inactive
+6673,51,7,129,2,1,2,212,5,At Risk
+7441,80,27,1615,1,4,4,144,9,Loyal Customers
+1071,10,26,1034,4,4,3,443,11,Champions
+10061,29,25,1088,3,4,4,344,11,Champions
+7187,52,25,721,2,4,3,243,9,Loyal Customers
+8775,74,10,137,2,2,2,222,6,Promising / Potential
+1612,82,8,47,1,2,1,121,4,At Risk
+2345,54,17,1244,2,3,4,234,9,Loyal Customers
+322,93,7,41,1,1,1,111,3,Lost / Inactive
+10897,63,32,1174,2,4,4,244,10,Champions
+123,92,15,993,1,3,3,133,7,Promising / Potential
+6103,40,7,100,3,1,2,312,6,Promising / Potential
+7899,70,17,1680,2,3,4,234,9,Loyal Customers
+10500,96,9,98,1,2,2,122,5,At Risk
+1655,81,5,48,1,1,1,111,3,Lost / Inactive
+2406,63,19,519,2,3,3,233,8,Loyal Customers
+2712,85,20,715,1,3,3,133,7,Promising / Potential
+5517,51,5,37,2,1,1,211,4,At Risk
+10643,23,20,653,4,3,3,433,10,Champions
+2254,95,21,1455,1,4,4,144,9,Loyal Customers
+10281,11,19,602,4,3,3,433,10,Champions
+6958,42,5,26,3,1,1,311,5,At Risk
+954,77,7,102,1,1,2,112,4,At Risk
+5079,82,10,97,1,2,2,122,5,At Risk
+10339,83,11,207,1,2,2,122,5,At Risk
+4643,40,9,176,3,2,2,322,7,Promising / Potential
+3117,95,15,450,1,3,3,133,7,Promising / Potential
+6497,32,17,433,3,3,3,333,9,Loyal Customers
+5396,48,30,1366,3,4,4,344,11,Champions
+5250,75,22,1564,1,4,4,144,9,Loyal Customers
+1052,24,27,1001,4,4,3,443,11,Champions
+2802,61,18,961,2,3,3,233,8,Loyal Customers
+6343,6,23,1518,4,4,4,444,12,Champions
+6507,16,8,56,4,2,1,421,7,Promising / Potential
+7901,39,4,22,3,1,1,311,5,At Risk
+4865,2,21,400,4,4,3,443,11,Champions
+2686,49,4,26,3,1,1,311,5,At Risk
+3107,31,13,350,3,2,2,322,7,Promising / Potential
+7734,58,22,1216,2,4,4,244,10,Champions
+1146,5,26,874,4,4,3,443,11,Champions
+11031,90,5,40,1,1,1,111,3,Lost / Inactive
+7428,47,19,1367,3,3,4,334,10,Champions
+975,25,15,264,3,3,2,332,8,Loyal Customers
+1103,60,20,2053,2,3,4,234,9,Loyal Customers
+3422,67,10,1376,2,2,4,224,8,Loyal Customers
+1055,40,5,45,3,1,1,311,5,At Risk
+6544,63,27,976,2,4,3,243,9,Loyal Customers
+1241,1,6,51,4,1,1,411,6,Promising / Potential
+2909,89,20,1264,1,3,4,134,8,Loyal Customers
+5802,40,7,75,3,1,2,312,6,Promising / Potential
+1407,5,7,57,4,1,1,411,6,Promising / Potential
+6183,3,8,140,4,2,2,422,8,Loyal Customers
+340,1,19,497,4,3,3,433,10,Champions
+5991,24,13,266,4,2,2,422,8,Loyal Customers
+3104,89,21,2006,1,4,4,144,9,Loyal Customers
+9729,48,23,615,3,4,3,343,10,Champions
+1008,31,24,1021,3,4,3,343,10,Champions
+11091,68,6,22,2,1,1,211,4,At Risk
+3969,46,7,133,3,1,2,312,6,Promising / Potential
+1916,92,19,437,1,3,3,133,7,Promising / Potential
+9907,80,26,1013,1,4,3,143,8,Loyal Customers
+87,16,7,57,4,1,1,411,6,Promising / Potential
+8659,50,27,1038,2,4,3,243,9,Loyal Customers
+6262,93,22,1573,1,4,4,144,9,Loyal Customers
+6147,51,4,28,2,1,1,211,4,At Risk
+8832,24,9,123,4,2,2,422,8,Loyal Customers
+10067,79,4,13,1,1,1,111,3,Lost / Inactive
+7532,26,10,132,3,2,2,322,7,Promising / Potential
+4915,86,23,732,1,4,3,143,8,Loyal Customers
+2115,68,7,66,2,1,1,211,4,At Risk
+2088,98,24,1631,1,4,4,144,9,Loyal Customers
+2493,34,18,608,3,3,3,333,9,Loyal Customers
+6292,60,18,1822,2,3,4,234,9,Loyal Customers
+1631,3,23,1282,4,4,4,444,12,Champions
+10104,65,4,8,2,1,1,211,4,At Risk
+3006,83,5,43,1,1,1,111,3,Lost / Inactive
+3919,64,20,1931,2,3,4,234,9,Loyal Customers
+11181,85,0,8,1,1,1,111,3,Lost / Inactive
+642,69,8,103,2,2,2,222,6,Promising / Potential
+4369,48,17,1169,3,3,4,334,10,Champions
+10127,21,15,395,4,3,2,432,9,Loyal Customers
+271,30,15,258,3,3,2,332,8,Loyal Customers
+4973,39,5,25,3,1,1,311,5,At Risk
+2948,76,10,185,1,2,2,122,5,At Risk
+2715,11,11,180,4,2,2,422,8,Loyal Customers
+10432,26,5,22,3,1,1,311,5,At Risk
+9216,34,7,44,3,1,1,311,5,At Risk
+7124,72,12,94,2,2,2,222,6,Promising / Potential
+9727,13,7,81,4,1,2,412,7,Promising / Potential
+5136,58,28,798,2,4,3,243,9,Loyal Customers
+9790,12,19,1334,4,3,4,434,11,Champions
+1818,23,5,38,4,1,1,411,6,Promising / Potential
+1100,33,11,61,3,2,1,321,6,Promising / Potential
+7873,30,16,300,3,3,2,332,8,Loyal Customers
+10609,15,8,88,4,2,2,422,8,Loyal Customers
+6950,25,7,54,3,1,1,311,5,At Risk
+7233,4,16,1782,4,3,4,434,11,Champions
+9481,80,11,68,1,2,1,121,4,At Risk
+7699,30,15,258,3,3,2,332,8,Loyal Customers
+2711,6,5,31,4,1,1,411,6,Promising / Potential
+8933,16,8,66,4,2,1,421,7,Promising / Potential
+8726,57,13,174,2,2,2,222,6,Promising / Potential
+1515,9,5,28,4,1,1,411,6,Promising / Potential
+5186,59,22,731,2,4,3,243,9,Loyal Customers
+10157,78,12,274,1,2,2,122,5,At Risk
+5667,90,26,1701,1,4,4,144,9,Loyal Customers
+902,74,13,312,2,2,2,222,6,Promising / Potential
+977,10,20,414,4,3,3,433,10,Champions
+7313,63,23,1565,2,4,4,244,10,Champions
+7600,13,6,29,4,1,1,411,6,Promising / Potential
+9706,98,8,94,1,2,2,122,5,At Risk
+2429,4,20,1338,4,3,4,434,11,Champions
+3520,94,14,1092,1,2,4,124,7,Promising / Potential
+10394,91,18,1479,1,3,4,134,8,Loyal Customers
+4548,66,5,54,2,1,1,211,4,At Risk
+9362,14,18,568,4,3,3,433,10,Champions
+3968,77,27,1199,1,4,4,144,9,Loyal Customers
+4084,41,23,873,3,4,3,343,10,Champions
+6721,21,17,1213,4,3,4,434,11,Champions
+2829,25,22,731,3,4,3,343,10,Champions
+1772,2,19,2043,4,3,4,434,11,Champions
+1544,51,17,1893,2,3,4,234,9,Loyal Customers
+492,3,19,424,4,3,3,433,10,Champions
+4377,32,15,575,3,3,3,333,9,Loyal Customers
+4541,84,12,257,1,2,2,122,5,At Risk
+1321,49,9,56,3,2,1,321,6,Promising / Potential
+8858,69,21,542,2,4,3,243,9,Loyal Customers
+3266,96,7,125,1,1,2,112,4,At Risk
+11187,23,9,69,4,2,1,421,7,Promising / Potential
+8207,18,5,40,4,1,1,411,6,Promising / Potential
+9723,8,28,1016,4,4,3,443,11,Champions
+2666,21,23,907,4,4,3,443,11,Champions
+5721,60,24,1566,2,4,4,244,10,Champions
+10652,48,17,1169,3,3,4,334,10,Champions
+1646,36,7,46,3,1,1,311,5,At Risk
+4418,36,25,1644,3,4,4,344,11,Champions
+2656,63,5,59,2,1,1,211,4,At Risk
+7990,2,4,17,4,1,1,411,6,Promising / Potential
+8722,38,25,1853,3,4,4,344,11,Champions
+7118,61,22,1528,2,4,4,244,10,Champions
+2980,52,10,35,2,2,1,221,5,At Risk
+1839,25,8,141,3,2,2,322,7,Promising / Potential
+10722,63,17,546,2,3,3,233,8,Loyal Customers
+2632,10,20,500,4,3,3,433,10,Champions
+9014,65,10,61,2,2,1,221,5,At Risk
+7620,71,8,106,2,2,2,222,6,Promising / Potential
+10968,0,26,704,4,4,3,443,11,Champions
+11133,3,19,424,4,3,3,433,10,Champions
+2736,88,23,849,1,4,3,143,8,Loyal Customers
+1876,15,6,85,4,1,2,412,7,Promising / Potential
+5959,80,15,199,1,3,2,132,6,Promising / Potential
+1092,17,20,1147,4,3,4,434,11,Champions
+4333,76,10,54,1,2,1,121,4,At Risk
+3850,52,5,43,2,1,1,211,4,At Risk
+6168,28,6,53,3,1,1,311,5,At Risk
+607,31,22,521,3,4,3,343,10,Champions
+10469,42,18,1623,3,3,4,334,10,Champions
+6983,24,7,45,4,1,1,411,6,Promising / Potential
+3661,42,19,1435,3,3,4,334,10,Champions
+9303,12,1,32,4,1,1,411,6,Promising / Potential
+692,88,4,16,1,1,1,111,3,Lost / Inactive
+736,67,7,52,2,1,1,211,4,At Risk
+9589,54,17,1234,2,3,4,234,9,Loyal Customers
+4838,40,4,15,3,1,1,311,5,At Risk
+9246,73,17,415,2,3,3,233,8,Loyal Customers
+6261,81,18,470,1,3,3,133,7,Promising / Potential
+7366,12,21,1438,4,4,4,444,12,Champions
+10659,7,11,53,4,2,1,421,7,Promising / Potential
+1448,33,9,51,3,2,1,321,6,Promising / Potential
+4286,24,22,679,4,4,3,443,11,Champions
+4749,55,22,586,2,4,3,243,9,Loyal Customers
+4478,87,26,653,1,4,3,143,8,Loyal Customers
+4201,39,19,468,3,3,3,333,9,Loyal Customers
+8720,53,1,1679,2,1,4,214,7,Promising / Potential
+10084,9,7,50,4,1,1,411,6,Promising / Potential
+7004,82,9,84,1,2,2,122,5,At Risk
+9817,71,27,1049,2,4,4,244,10,Champions
+8080,50,4,22,2,1,1,211,4,At Risk
+8372,81,4,30,1,1,1,111,3,Lost / Inactive
+10870,46,18,1341,3,3,4,334,10,Champions
+4001,56,22,444,2,4,3,243,9,Loyal Customers
+7270,91,19,1241,1,3,4,134,8,Loyal Customers
+8235,8,23,843,4,4,3,443,11,Champions
+9405,40,11,172,3,2,2,322,7,Promising / Potential
